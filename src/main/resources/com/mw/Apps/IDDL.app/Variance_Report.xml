@@ -1,0 +1,72 @@
+<report width="8.5in" height="11in">
+	<margins left="0.15625in" right="0.15625in" top="0.4125in" bottom="0.15625in" />
+	
+	<source name="IDDLInspection" dateattr="Date" />
+	<source name="DriverLog" dateattr="Start" />
+	<source name="IDDLInspection" dateattr="Date" limitingattr="Type" limitingvalue="Pre-trip" inclusivelimiting="YES" sourcename="preIDDLInspection" />
+	<source name="History" dateattr="Time" limitingattr="Type" limitingvalue="Vehicle Started" sourcename="startHistory" />
+	<source name="History" dateattr="Time" limitingattr="Type" limitingvalue="Vehicle Stopped" sourcename="stopHistory" />
+	<source name="History" dateattr="Time" limitingattr="Type" limitingvalue="Vehicle Moving" sourcename="movingHistory" />
+	
+	<head height="1.5in">
+		
+		<text size="13pt" style="bold" align="center" x="4.09375in" y="0.175in">Driver and Vehicle Variance Report</text>
+        <text size="10pt" style="bold" x="0.25in" y="0.175in">Date:</text>
+        <date size="10pt" x="0.75in" y="0.175in" />
+		<text size="11pt" x="7.2in" y="0.175in">pg.</text>
+		<pagenum size="11pt" x="7.5in" y="0.175in" />
+		
+		<group x="0.2in" y="0.275in" width="7.5in" height="1in" boxed="YES" background="0.9" strokesize="1" margin="1pt">
+			<text size="10pt" style="bold" x="0.25in" y="0.2in">Driver Name:</text>
+			<text size="10pt" style="bold" x="4in" y="0.2in">Equipment Number(s):</text>
+            <text size="10pt" style="bold" x="2in" y="0.2in">Driver ID:</text>
+			<attr source="IDDLDriverInformation" name="Name" size="10pt" nodate="YES" x="0.25in" y="0.35in" />
+            <attr source="IDDLDriverInformation" name="DriverID" size="10pt" nodate="YES" x="2in" y="0.35in" />
+			<linkattrlist source="preIDDLInspection" linkname="Vehicle" name="Name" width="3.5in" wraplines="YES" size="10pt" x="4in" y="0.35in" />
+            
+			<text size="10pt" style="bold" x="0.25in" y="0.625in">Co-Driver:</text>
+            <text size="10pt" style="bold" x="2in" y="0.625in">Carrier ID:</text>
+			<text size="10pt" style="bold" x="4in" y="0.625in">License Plate Number(s):</text>
+			<attr source="IDDLDriverInformation" name="Co-Driver" size="10pt" nodate="YES" x="0.25in" y="0.775in" />
+            <attr source="IDDLDriverInformation" name="Carrier ID" size="10pt" nodate="YES" x="2in" y="0.775in" />
+			<linkattrlist source="preIDDLInspection" linkname="Vehicle" name="License Plates" width="3.5in" wraplines="YES" size="10pt" x="4in" y="0.775in" />
+		</group>
+	</head>
+	
+	<body>
+		<dailychart x="0.25in" y="0in" width="7.5in" height="2.5625in" inspections="NO" history="YES" totalInDecimal="NO" withWaitTimeStatus="NO"/>
+		<table source="DriverLog" x="0in" y="2.8in">
+            <field name="placeholder" size="10pt" title="" titlesize="11pt" x="0.25in" />
+			<field name="Type Driver Log" size="10pt" title="Type" titlesize="11pt" x="0.4in" />
+			<field name="Start" size="10pt" title="Time" titlesize="11pt" x="2in" />
+			<field name="Location" size="10pt" title="Location" titlesize="11pt" x="4.5in" />
+			<field name="Odometer" size="10pt" title="Odometer" titlesize="11pt" x="6.75in" />
+			<adtlsource source="startHistory">
+                <fmapping field="placeholder" text="*" textcolor="0,0,1" />
+				<fmapping field="Type Driver Log" name="Type" textcolor="0,0,1" />
+				<fmapping field="Start" name="Time" textcolor="0,0,1" />
+				<fmapping field="Location" name="Location" textcolor="0,0,1" />
+				<fmapping field="Odometer" name="Odometer" textcolor="0,0,1" />
+			</adtlsource>
+			<adtlsource source="movingHistory">
+                <fmapping field="placeholder" text="*" textcolor="0,0,1" />
+				<fmapping field="Type Driver Log" name="Type" textcolor="0,0,1" />
+				<fmapping field="Start" name="Time" textcolor="0,0,1" />
+				<fmapping field="Location" name="Location" textcolor="0,0,1" />
+				<fmapping field="Odometer" name="Odometer" textcolor="0,0,1" />
+			</adtlsource>
+			<adtlsource source="stopHistory">
+                <fmapping field="placeholder" text="*" textcolor="0,0,1" />
+				<fmapping field="Type Driver Log" name="Type" textcolor="0.7,0.3,0.3" />
+				<fmapping field="Start" name="Time" textcolor="0.7,0.3,0.3" />
+				<fmapping field="Location" name="Location" textcolor="0.7,0.3,0.3" />
+				<fmapping field="Odometer" name="Odometer" textcolor="0.7,0.3,0.3" />
+			</adtlsource>
+		</table>
+
+
+	</body>
+	
+	<foot height="0in">
+	</foot>
+</report>

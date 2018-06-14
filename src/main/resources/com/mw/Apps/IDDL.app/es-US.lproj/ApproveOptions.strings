@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Are you sure you wish to sign and approve the above reports?"; ObjectID = "3"; */
+"3.text" = "Are you sure you wish to sign and approve the above reports?";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "5"; */
+"5.normalTitle" = "No";
+
+/* Class = "UIButton"; normalTitle = "Sign and Print"; ObjectID = "6"; */
+"6.normalTitle" = "Sign and Print";
+
+/* Class = "UIButton"; normalTitle = "Sign and Email"; ObjectID = "7"; */
+"7.normalTitle" = "Sign and Email";
+
+/* Class = "UIButton"; normalTitle = "Sign and View"; ObjectID = "12"; */
+"12.normalTitle" = "Sign and View";

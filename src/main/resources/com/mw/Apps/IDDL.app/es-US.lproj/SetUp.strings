@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "To run reports some information is needed"; ObjectID = "71"; */
+"71.text" = "To run reports some information is needed";
+
+/* Class = "UITextField"; placeholder = "Carrier Name"; ObjectID = "72"; */
+"72.placeholder" = "Carrier Name";
+
+/* Class = "UITextField"; placeholder = "Carrier Main Office Address"; ObjectID = "74"; */
+"74.placeholder" = "Carrier Main Office Address";
+
+/* Class = "UITextField"; placeholder = "Carrier Main Terminal Address"; ObjectID = "76"; */
+"76.placeholder" = "Carrier Main Terminal Address";
+
+/* Class = "UITextField"; placeholder = "Co-Driver"; ObjectID = "78"; */
+"78.placeholder" = "Co-Driver";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "81"; */
+"81.normalTitle" = "Continue";

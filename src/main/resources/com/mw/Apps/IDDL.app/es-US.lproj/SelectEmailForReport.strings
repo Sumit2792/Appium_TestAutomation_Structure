@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "To:"; ObjectID = "4"; */
+"4.text" = "To:";
+
+/* Class = "UITextField"; placeholder = "email@domain.com"; ObjectID = "5"; */
+"5.placeholder" = "email@domain.com";
+
+/* Class = "UILabel"; text = "Enter report email recipient:"; ObjectID = "6"; */
+"6.text" = "Enter report email recipient:";
+
+/* Class = "UIButton"; normalTitle = "Send report"; ObjectID = "7"; */
+"7.normalTitle" = "Send report";

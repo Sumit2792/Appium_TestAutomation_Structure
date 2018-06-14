@@ -1,0 +1,27 @@
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "109"; */
+"109.placeholder" = "Primer Nombre";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "110"; */
+"110.placeholder" = "Apellido";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "113"; */
+"113.placeholder" = "Número de teléfono";
+
+/* Class = "UITextField"; placeholder = "Carrier Registration ID"; ObjectID = "115"; */
+"115.placeholder" = "ID de registro del transportista";
+
+/* Class = "UILabel"; text = "Run Reports and Sign your Log as..."; ObjectID = "116"; */
+"116.text" = "Ejecutar informes y firmar su registro como...";
+
+/* Class = "UIButton"; normalTitle = "Contact Support"; ObjectID = "117"; */
+"117.normalTitle" = "Póngase en contacto con Soporte";
+
+/* Class = "UIButton"; normalTitle = "Self Register"; ObjectID = "1Ya-WD-h5N"; */
+"1Ya-WD-h5N.normalTitle" = "Autorregistro";
+
+/* Class = "UILabel"; text = "Input \"123\" for Canadian and Mexican  Companies that do not drive in the USA."; ObjectID = "KY1-Uy-Wo9"; */
+"KY1-Uy-Wo9.text" = "Entrada \"123\" para las empresas canadienses y mexicanos que no conducir en los Estados Unidos.";
+
+/* Class = "UIButton"; normalTitle = "Replay Audio"; ObjectID = "Vw0-le-3c0"; */
+"Vw0-le-3c0.normalTitle" = "Reproducir audio";

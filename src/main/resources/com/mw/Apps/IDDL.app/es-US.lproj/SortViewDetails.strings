@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Attribute name"; ObjectID = "4"; */
+"4.text" = "Attribute name";
+
+/* Class = "UISegmentedControl"; 6.segmentTitles[0] = "Ascending"; ObjectID = "6"; */
+"6.segmentTitles[0]" = "Ascendente";
+
+/* Class = "UISegmentedControl"; 6.segmentTitles[1] = "Descending"; ObjectID = "6"; */
+"6.segmentTitles[1]" = "Descendente";

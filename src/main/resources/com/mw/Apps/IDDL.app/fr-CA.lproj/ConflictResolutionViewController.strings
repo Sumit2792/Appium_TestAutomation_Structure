@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "ContentClassName"; ObjectID = "4"; */
+"4.text" = "ContentClassName";
+
+/* Class = "UILabel"; text = "Select the correct"; ObjectID = "7"; */
+"7.text" = "Sélectionnez le bon";
+
+/* Class = "UILabel"; text = "Your device"; ObjectID = "10"; */
+"10.text" = "Votre appareil";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "11"; */
+"11.text" = "Label";
+
+/* Class = "UILabel"; text = "Field Name"; ObjectID = "15"; */
+"15.text" = "Nom du champ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "17"; */
+"17.text" = "Label";
+
+/* Class = "UILabel"; text = "The Cloud"; ObjectID = "18"; */
+"18.text" = "Le nuage";
+
+/* Class = "UILabel"; text = "There is a synchronization conflict"; ObjectID = "30"; */
+"30.text" = "Il y a un conflit de synchronisation";
+
+/* Class = "UILabel"; text = "Content type:"; ObjectID = "31"; */
+"31.text" = "Type de contenu:";

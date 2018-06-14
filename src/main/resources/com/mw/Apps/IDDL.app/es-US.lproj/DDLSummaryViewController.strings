@@ -1,0 +1,93 @@
+
+/* Class = "UILabel"; text = "Hour Rule:"; ObjectID = "28"; */
+"28.text" = "Regla de hora:";
+
+/* Class = "UILabel"; text = "Resets every:"; ObjectID = "30"; */
+"30.text" = "Se reajusta cada:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "32"; */
+"32.text" = "Artículo";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "33"; */
+"33.text" = "Horas";
+
+/* Class = "UILabel"; text = "USA Standard"; ObjectID = "41"; */
+"41.text" = "Norma de EE.UU.";
+
+/* Class = "UILabel"; text = "Driving/On Duty:"; ObjectID = "42"; */
+"42.text" = "Conducción/el deber de:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "43"; */
+"43.text" = "Artículo";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "44"; */
+"44.text" = "Artículo";
+
+/* Class = "UILabel"; text = "Off Duty Rule:"; ObjectID = "45"; */
+"45.text" = "Regla fuera de servicio:";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "54"; */
+"54.title" = "<";
+
+/* Class = "UIBarButtonItem"; title = "month"; ObjectID = "56"; */
+"56.title" = "Mes";
+
+/* Class = "UIBarButtonItem"; title = ">"; ObjectID = "58"; */
+"58.title" = ">";
+
+/* Class = "UILabel"; text = "Break Rule:"; ObjectID = "67"; */
+"67.text" = "Romper la regla:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "68"; */
+"68.text" = "Artículo";
+
+/* Class = "UILabel"; text = "Solo"; ObjectID = "70"; */
+"70.text" = "Solo";
+
+/* Class = "UILabel"; text = "Two-up"; ObjectID = "71"; */
+"71.text" = "Dos arriba";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "72"; */
+"72.text" = "Artículo";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "73"; */
+"73.text" = "Artículo";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "74"; */
+"74.text" = "Horas";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "75"; */
+"75.text" = "Artículo";
+
+/* Class = "UILabel"; text = "Deferral Allowed:"; ObjectID = "84"; */
+"84.text" = "Diferimiento permitidos:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "85"; */
+"85.text" = "Artículo";
+
+/* Class = "UILabel"; text = "Reset Mandatory:"; ObjectID = "88"; */
+"88.text" = "Reset obligatorio:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "89"; */
+"89.text" = "Artículo";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "116"; */
+"116.text" = "Artículo";
+
+/* Class = "UILabel"; text = "OffDuty Split Minimum:"; ObjectID = "120"; */
+"120.text" = "Split OffDuty mínimo:";
+
+/* Class = "UILabel"; text = "Subscription Source"; ObjectID = "122"; */
+"122.text" = "Fuente de suscripción";
+
+/* Class = "UILabel"; text = "Electronic Log"; ObjectID = "124"; */
+"124.text" = "Registro electrónico";
+
+/* Class = "UIButton"; normalTitle = "IFTA"; ObjectID = "B1h-EG-D6D"; */
+"B1h-EG-D6D.normalTitle" = "IFTA";
+
+/* Class = "UIButton"; normalTitle = "ELD"; ObjectID = "gAV-L0-L92"; */
+"gAV-L0-L92.normalTitle" = "ELD";
+
+/* Class = "UIButton"; normalTitle = "Gauge"; ObjectID = "jf5-lb-tYa"; */
+"jf5-lb-tYa.normalTitle" = "Manómetro";

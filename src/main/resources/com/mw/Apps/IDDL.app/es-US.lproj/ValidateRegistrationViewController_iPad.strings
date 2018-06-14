@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Edit Info"; ObjectID = "Ey9-ha-JqV"; */
+"Ey9-ha-JqV.normalTitle" = "Editar info";
+
+/* Class = "UIButton"; normalTitle = "Play Again"; ObjectID = "hdc-Vj-IYQ"; */
+"hdc-Vj-IYQ.normalTitle" = "Volver a jugar";
+
+/* Class = "UIButton"; normalTitle = "Sync Login"; ObjectID = "voM-vQ-orN"; */
+"voM-vQ-orN.normalTitle" = "Inicio de sesión de sincronización";

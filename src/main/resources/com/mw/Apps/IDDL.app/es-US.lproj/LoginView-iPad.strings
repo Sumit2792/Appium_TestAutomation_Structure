@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "4"; */
+"4.normalTitle" = "Iniciar sesión";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "5"; */
+"5.normalTitle" = "Regístrese";
+
+/* Class = "UILabel"; text = "No account yet?"; ObjectID = "6"; */
+"6.text" = "¿Aún no tienes cuenta?";
+
+/* Class = "UIButton"; normalTitle = "Recover password"; ObjectID = "7"; */
+"7.normalTitle" = "Recuperar contraseña";
+
+/* Class = "UILabel"; text = "Powered By MobileWarrior - Platform Release 2.93 20161220"; ObjectID = "8"; */
+"8.text" = "Powered By MobileWarrior - Platform Release 2.93 20161220";
+
+/* Class = "UITextField"; placeholder = "Your email address"; ObjectID = "9"; */
+"9.placeholder" = "Su dirección de correo electrónico";
+
+/* Class = "UITextField"; placeholder = "Your password"; ObjectID = "10"; */
+"10.placeholder" = "Tu contraseña";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "I1z-Bb-XWO"; */
+"I1z-Bb-XWO.normalTitle" = "Configuración";

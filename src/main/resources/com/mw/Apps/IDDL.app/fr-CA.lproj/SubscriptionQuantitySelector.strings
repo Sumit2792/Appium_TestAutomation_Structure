@@ -1,0 +1,6 @@
+
+/* Class = "UILabel"; text = "Select the number of subscription months you wish to purchase:"; ObjectID = "5"; */
+"5.text" = "Sélectionnez le nombre de mois d'abonnement que vous souhaitez acheter:";
+
+/* Class = "UIButton"; normalTitle = "Go Back"; ObjectID = "10"; */
+"10.normalTitle" = "Revenir";

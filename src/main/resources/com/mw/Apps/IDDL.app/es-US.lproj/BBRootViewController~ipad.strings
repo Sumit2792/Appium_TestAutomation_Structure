@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "clY-qh-982"; */
+"clY-qh-982.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Update Odo"; ObjectID = "etr-F7-kgf"; */
+"etr-F7-kgf.normalTitle" = "Actualizar Odón";
+
+/* Class = "UITextView"; text = "\n\n\n\n\n\n\n\n\n\n\n\nCurrently Black Box is not Connected."; ObjectID = "pXi-wx-Z72"; */
+"pXi-wx-Z72.text" = "\n\n\n\n\n\n\n\n\n\n\n\nEn la actualidad caja negra no está conectado.";

@@ -1,0 +1,165 @@
+<report width="11in" height="8.5in">
+	<margins left="0.10625in" right="0.05625in" top="0.4125in" bottom="0.15625in" />
+	
+	<source name="IDDLInspection" dateattr="Date" />
+	<source name="IDDLInspection" dateattr="Date" limitingattr="Type" limitingvalue="Pre-trip" inclusivelimiting="NO" sourcename="preIDDLInspection" />
+	<source name="DriverLog" dateattr="Start" />
+	
+	<head height="0.3625in">
+		<text size="10pt" x="0in" y="0.05in">DUPLICATE:</text>
+		<text size="14pt" align="center" style="bold" x="5.35485in" y="0in">NATIONAL DRIVER WORK DIARY DAILY SHEET</text>
+		<text size="10pt" x="8.5in" y="0.05in">SECURITY NO:</text>
+	</head>
+	
+	<body>
+		
+		<group x="0in" y="0in">
+			<text size="9pt" style="bold" x="0in" y="0in">Driver's Name:</text>
+			<attr source="IDDLDriverInformation" name="Name" nodate="YES" size="10pt" x="0in" y="0.25in" boxed="YES" width="1.5in" height="10pt" />
+		</group>
+		
+		<group x="1.7in" y="0in">
+			<text size="9pt" style="bold" x="0in" y="0in">License No:</text>
+			<attr source="IDDLDriverInformation" name="Drivers License" nodate="YES" size="10pt" x="0in" y="0.25in" boxed="YES" width="1.0in" height="10pt" />
+		</group>
+		
+		<group x="2.9in" y="0in">
+			<text size="9pt" style="bold" x="0in" y="0in">State/territory issued:</text>
+			<attr source="IDDLDriverInformation" name="License State/Territory" nodate="YES" size="10pt" x="0in" y="0.25in" boxed="YES" width="1.5in" height="10pt" />
+		</group>
+		
+		<group x="4.6in" y="0in">
+			<text size="9pt" style="bold" x="0in" y="0in">BFM/AFM Accred. No:</text>
+			<attr source="IDDLDriverInformation" name="BFM/AFM Accreditation Number" nodate="YES" size="10pt" x="0in" y="0.25in" boxed="YES" width="1.5in" height="10pt" />
+			<text size="7pt" style="bold" x="0in" y="0.375in">State/Territory (Driver Base)</text>
+		</group>
+		
+		<group x="0in" y="0.5in">
+			<text size="9pt" style="bold" x="0in" y="0.0in">Date:</text>
+			<date size="10pt" x="0in" y="0.25in" boxed="YES" width="1.15in" height="10pt" format="MM/dd/yyyy" />
+		</group>
+		
+		<group x="1.35in" y="0.5in">
+			<text size="9pt" style="bold" x="0in" y="0in">Day of the Week:</text>
+			<date size="10pt" x="0in" y="0.25in" boxed="YES" width="1.10in" height="10pt" format="EEEE" />
+		</group>
+		
+		<group x="2.9in" y="0.5in">
+			<text size="9pt" style="bold" x="0in" y="0in">Time Zone:</text>
+			<attr source="IDDLDriverInformation" name="Time Zone" nodate="YES" size="10pt" x="0in" y="0.25in" boxed="YES" width="1.5in" height="10pt" />
+			<text size="7pt" style="bold" x="0in" y="0.375in">State/Territory (Driver Base)</text>
+		</group>
+		
+		<group x="4.6in" y="0.55in">
+			<text size="9pt" style="bold" x="0in" y="0in">Pre-trip check (optional):</text>
+			<conditionaltext size="13pt" x="0in" y="0.2in" source="preIDDLInspection" name="Type" limitingvalue="Pre-trip" boxed="YES" width="7pt" height="7pt">X</conditionaltext>
+			<text size="9pt" style="bold" x="0.25in" y="0.2in">Time:</text>
+            <attr source="preIDDLInspection" name="Date" dateformat="hh:mm:ss a" size="10pt" x="0.68in" y="0.2in" />
+			<text size="9pt" style="bold" x="0.65in" y="0.2in" boxed="YES" width="0.85in" height="7pt"/>
+		</group>
+		
+		<group x="6.75in" y="0in">
+			<text size="9pt" style="bold" x="0in" y="0in">Tick the work/rest option for this daily sheet only</text>
+			<text size="9pt" style="bold" x="0in" y="0.25in">Solo driver work/rest options:</text>
+			<text size="9pt" style="bold" x="0.0in" y="0.65in">Two-up driver work/rest options:</text>
+			
+			<text size="13pt" x="0in" y="0.45in" boxed="YES" width="7pt" height="7pt"/>
+			<text size="9pt" style="bold" x="0.2in" y="0.45in">Standard</text>
+			
+			<text size="13pt" x="0.0in" y="0.85in" boxed="YES" width="7pt" height="7pt"/>
+			<text size="9pt" style="bold" x="0.2in" y="0.85in">Standard</text>
+			
+			<text size="13pt" x="0.85in" y="0.45in" boxed="YES" width="7pt" height="7pt"/>
+			<text size="9pt" style="bold" x="1.05in" y="0.45in">Standard (Bus)</text>
+			
+			<text size="13pt" x="2.05in" y="0.45in" boxed="YES" width="7pt" height="7pt"/>
+			<text size="9pt" style="bold" x="2.25in" y="0.45in">BFM</text>
+			
+			<text size="13pt" x="0.85in" y="0.85in" boxed="YES" width="7pt" height="7pt"/>
+			<text size="9pt" style="bold" x="1.05in" y="0.85in">BFM</text>
+			
+			<text size="13pt" x="2.65in" y="0.45in" boxed="YES" width="7pt" height="7pt"/>
+			<text size="9pt" style="bold" x="2.85in" y="0.45in">AFM</text>
+			
+			<text size="13pt" x="1.45in" y="0.85in" boxed="YES" width="7pt" height="7pt"/>
+			<text size="9pt" style="bold" x="1.65in" y="0.85in">AFM</text>
+			
+			<conditional source="IDDLDriverInformation" name="Driving Option" nodate="YES" limitingvalue="Standard">
+				<checkfordriving size="13pt" x="0in" y="0.45in" limitingvalue="Solo">X</checkfordriving>
+				
+				<checkfordriving size="13pt" x="0.0in" y="0.85in" limitingvalue="Two-up">X</checkfordriving>
+			</conditional>
+			
+			<conditional source="IDDLDriverInformation" name="Driving Option" nodate="YES" limitingvalue="BFM">
+				<checkfordriving size="13pt" x="2.05in" y="0.45in" limitingvalue="Solo">X</checkfordriving>
+				
+				<checkfordriving size="13pt" x="0.85in" y="0.85in" limitingvalue="Two-up">X</checkfordriving>
+			</conditional>
+			
+			<conditional source="IDDLDriverInformation" name="Driving Option" nodate="YES" limitingvalue="AFM">
+				<checkfordriving size="13pt" x="2.65in" y="0.45in" limitingvalue="Solo">X</checkfordriving>
+				
+				<checkfordriving size="13pt" x="1.45in" y="0.85in" limitingvalue="Two-up">X</checkfordriving>
+			</conditional>
+			
+			<group x="2.05in" y="0.62in" width="1.5in" height="0.1in" boxed="YES" background="0.9" strokesize="0" margin="7pt">
+				<text size="9pt" style="bold" x="0.0in" y="0.03in">Work/rest hours exemption:</text>
+				<conditionaltext size="13pt" x="0.0in" y="0.23in" source="IDDLDriverInformation" name="Driving Option" nodate="YES" limitingvalue="never check this option" boxed="YES" width="7pt" height="7pt" background="1.0">X</conditionaltext>
+				<text size="9pt" style="bold" x="0.2in" y="0.23in">(if applicable)</text>
+			</group>
+		</group>
+		
+		<dailychart x="0in" y="1.2875in" width="10.7in" height="2.2in" inspections="YES" totalInDecimal="NO" />
+		<table source="DriverLog" x="0in" y="3.8in" height="2.75in">
+			<field name="Start" size="9pt" title="Date" titlesize="11pt" x="0in" />
+			<field name="Type Driver Log" size="9pt" title="Type" titlesize="11pt" x="2.0in" />
+			<field name="Location" size="9pt" title="Location" titlesize="11pt" x="3.5in" />
+			<field name="Odometer" size="9pt" title="Odometer" titlesize="11pt" x="6.5in" />
+			<field name="Remark" size="9pt" title="Observation" titlesize="11pt" x="7.5in" />
+			<adtlsource source="IDDLInspection">
+				<fmapping field="Start" name="Date" />
+				<fmapping field="Type Driver Log" name="Type" text="%@ Inspection" />
+				<fmapping field="Location" text="" />
+				<fmapping field="Odometer" name="Start odometer" altname="Odometer" />
+				<fmapping field="Remark" name="Observation" />
+			</adtlsource>
+		</table>
+		
+		<group x="0in" y="6.7in">
+			<text x="0in" y="0in" size="9pt" style="bold">Driver Signature:</text>
+			<text x="0in" y="0.1in" size="7pt" style="bold" width="2.5in" wraplines="YES">By signing this daily sheet you verify the information given is true and correct in every detail.</text>
+			<signature x="0in" y="0.25in" width="2in" height="0.25in" boxed="YES" />
+			<text x="0in" y="0.65in" size="7pt" style="none" width="2.5in" wraplines="YES">YOU MUST SIGN THIS PAGE BEFORE STARTING A NEW DAILY SHEET</text>
+			
+			<group x="3in" y="0in" width="7in" height="0.6in" boxed="YES" strokesize="0" background="0.9" margin="9pt">
+				<group x="0in" y="0in">
+					<text size="9pt" style="bold" x="0in" y="0in">Two-up Driver Name:</text>
+					<text size="10pt" x="0in" y="0.25in" boxed="YES" width="1.5in" height="10pt"/>
+				</group>
+				
+				<group x="1.7in" y="0in">
+					<text size="9pt" style="bold" x="0in" y="0in">License No:</text>
+					<text size="10pt" x="0in" y="0.25in" boxed="YES" width="1.5in" height="10pt"/>
+				</group>
+				
+				<group x="0in" y="0.5in">
+					<text size="9pt" style="bold" x="0in" y="0.0in">Work Diary No:</text>
+					<text size="10pt" x="0in" y="0.25in" boxed="YES" width="1.5in" height="10pt"/>
+				</group>
+				
+				<group x="1.7in" y="0.5in">
+					<text size="9pt" style="bold" x="0in" y="0in">State/Territory Issued:</text>
+					<text size="10pt" x="0in" y="0.25in" boxed="YES" width="1.5in" height="10pt"/>
+				</group>
+				
+				<text x="3.5in" y="0.15in" size="9pt" style="bold">Driver Signature:</text>
+				<text x="3.5in" y="0.25in" size="7pt" style="bold" width="2.5in" wraplines="YES">By signing this daily sheet you verify the information given is true and correct in every detail.</text>
+				<text x="3.5in" y="0.65in" width="2.5in" height="14pt" boxed="YES"/>
+
+			</group>
+		</group>
+	</body>
+	
+	<foot height="0in">
+	</foot>
+</report>

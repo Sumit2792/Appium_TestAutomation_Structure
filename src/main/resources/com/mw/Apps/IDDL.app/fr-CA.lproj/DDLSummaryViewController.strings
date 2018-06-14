@@ -1,0 +1,93 @@
+
+/* Class = "UILabel"; text = "Hour Rule:"; ObjectID = "28"; */
+"28.text" = "Heures:";
+
+/* Class = "UILabel"; text = "Resets every:"; ObjectID = "30"; */
+"30.text" = "Réinitialise tous les:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "32"; */
+"32.text" = "La règle";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "33"; */
+"33.text" = "Heures";
+
+/* Class = "UILabel"; text = "USA Standard"; ObjectID = "41"; */
+"41.text" = "Norme USA";
+
+/* Class = "UILabel"; text = "Driving/On Duty:"; ObjectID = "42"; */
+"42.text" = "Conduite/de service:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "43"; */
+"43.text" = "La règle";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "44"; */
+"44.text" = "La règle";
+
+/* Class = "UILabel"; text = "Off Duty Rule:"; ObjectID = "45"; */
+"45.text" = "La règle hors-service:";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "54"; */
+"54.title" = "<";
+
+/* Class = "UIBarButtonItem"; title = "month"; ObjectID = "56"; */
+"56.title" = "Mois";
+
+/* Class = "UIBarButtonItem"; title = ">"; ObjectID = "58"; */
+"58.title" = ">";
+
+/* Class = "UILabel"; text = "Break Rule:"; ObjectID = "67"; */
+"67.text" = "Briser la règle:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "68"; */
+"68.text" = "La règle";
+
+/* Class = "UILabel"; text = "Solo"; ObjectID = "70"; */
+"70.text" = "Solo";
+
+/* Class = "UILabel"; text = "Two-up"; ObjectID = "71"; */
+"71.text" = "2-up";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "72"; */
+"72.text" = "La règle";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "73"; */
+"73.text" = "La règle";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "74"; */
+"74.text" = "Heures";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "75"; */
+"75.text" = "La règle";
+
+/* Class = "UILabel"; text = "Deferral Allowed:"; ObjectID = "84"; */
+"84.text" = "Permis de report:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "85"; */
+"85.text" = "La règle";
+
+/* Class = "UILabel"; text = "Reset Mandatory:"; ObjectID = "88"; */
+"88.text" = "Réinitialiser obligatoires:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "89"; */
+"89.text" = "La règle";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "116"; */
+"116.text" = "La règle";
+
+/* Class = "UILabel"; text = "OffDuty Split Minimum:"; ObjectID = "120"; */
+"120.text" = "Les suicides commis par Split Minimum:";
+
+/* Class = "UILabel"; text = "Subscription Source"; ObjectID = "122"; */
+"122.text" = "Source d'abonnement";
+
+/* Class = "UILabel"; text = "Electronic Log"; ObjectID = "124"; */
+"124.text" = "Journal électronique";
+
+/* Class = "UIButton"; normalTitle = "IFTA"; ObjectID = "B1h-EG-D6D"; */
+"B1h-EG-D6D.normalTitle" = "IFTA";
+
+/* Class = "UIButton"; normalTitle = "ELD"; ObjectID = "gAV-L0-L92"; */
+"gAV-L0-L92.normalTitle" = "ELD";
+
+/* Class = "UIButton"; normalTitle = "Gauge"; ObjectID = "jf5-lb-tYa"; */
+"jf5-lb-tYa.normalTitle" = "Gauge";

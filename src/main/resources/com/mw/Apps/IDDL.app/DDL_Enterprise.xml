@@ -1,0 +1,125 @@
+<report width="8.5in" height="11in">
+	<margins left="0.10625in" right="0.05625in" top="0.4125in" bottom="0.15625in" />
+	
+	<source name="IDDLInspection" dateattr="Date" />
+	<source name="DriverLog" dateattr="Start" />
+	<source name="IDDLInspection" dateattr="Date" limitingattr="Type" limitingvalue="Pre-trip" inclusivelimiting="YES" sourcename="preIDDLInspection" />
+	<source name="IDDLInspection" dateattr="Date" limitingattr="Type" limitingvalue="Post-trip" inclusivelimiting="NO" sourcename="postIDDLInspection" />
+	<source name="IDDLInspection" dateattr="Date" limitingattr="Type" limitingvalue="Load Check" inclusivelimiting="NO" sourcename="loadIDDLInspection" />
+    <source name="IDDLInspection" dateattr="Date" limitingattr="Type" limitingvalue="Daily" inclusivelimiting="NO" sourcename="dailyIDDLInspection" />
+	<source name="IDDLInspection" dateattr="Date" linkname="IDDLInspectionFailure" limitingattr="Type" limitingvalue="Pre-trip" />
+    <source name="IDDLInspection" dateattr="Date" limitingattr="Type" limitingvalue="Failed" inclusivelimiting="NO" sourcename="failedIDDLInspection" />
+	    
+	<head height="0in">
+       </head>
+    <body>
+
+        <group x="7.3in" y="0in" width="0.8in" height="1in" boxed="YES" strokesize="1" background="0.9">
+            <text size="9pt"  x="0in" y="0.18in" width="0.7in" wraplines="YES">Summary RECAP</text>
+        </group>
+        <group x="7.3in" y="0.4in" width="0.8in" height="3.85in" boxed="YES" strokesize="1" background="0.9">
+            
+            <RECAP width="0.6in" height="12pt" size="13pt" x="0.1in" y="4.28in" />
+            
+            <text size="13pt" x="0.06in" y="0.29in" boxed="YES" width="0.6in" height="12pt" />
+            <text size="9pt"  x="0.02in" y="0.48in" width="0.8in" wraplines="YES">Eligible Hrs. (EHT At the beginning of the Work Day)</text>
+            
+            <text size="13pt" x="0.06in" y="1.3in" boxed="YES" width="0.6in" height="12pt" />
+            <text size="9pt"  x="0.02in" y="1.5in" width="0.8in" wraplines="YES">Minus Hrs. (HW - Hours Worked Today)</text>
+            
+            <text size="13pt" x="0.06in" y="2.34in" boxed="YES" width="0.6in" height="12pt" />
+            <text size="9pt"  x="0.02in" y="2.54in" width="0.7in" wraplines="YES">Subtotal (EHT - HW)</text>
+            
+            <text  size="13pt" x="0.06in" y="3.05in" boxed="YES" width="0.6in" height="12pt" />
+            <text size="9pt"  x="0.02in" y="3.275in" width="0.8in" wraplines="YES">Eligible Hrs. (On Duty and Driving Hrs. available tomorrow) </text>
+        </group>
+        
+        <group x="0in" y="0.0in" height="0.60in">
+            <text size="10pt" x="0.3in" y="0.075in">Driver Number:</text>
+            <attr source="IDDLDriverInformation" name="DriverID" nodate="YES" style="bold" size="12pt" x="1.35in" y="0.075in" />
+            <text size="5pt" x="0.3in" y="0.35in">----------------------------------------------------------------------------------------------------------------</text>
+            <text size="14pt" style="bold" x="3.05625in" y="0.075in">DRIVER'S DAILY LOG</text>
+            <text size="7pt" x="3.32in" y="0.175in">ORIGINAL - Submit to carrier</text>
+            <date size="14pt" style="bold" x="5.75in" y="0.075in" />
+            <text size="6pt" x="5.575in" y="0.15in">(MONTH)  (DAY)  (YEAR)</text>
+        </group>
+
+        <group x="0in" y="0.30in" height="1.60in">
+            <signature size="10pt" x="0.425in" y="0.075in" width="1.25in" height="0.485in" />
+            <attr source="IDDLDriverInformation" name="Name" size="7pt" nodate="YES" x="1.75in" y=".575in" />
+            <text size="5pt" x="0.3in" y=".615in">----------------------------------------------------------------------------------------------------------------</text>
+            <text size="6pt" x="0.3in" y=".685in">(DRIVER'S SIGNATURE IN FULL)</text>
+            <text size="5pt" x="1.63in" y=".685in">I certify these entries are true and correct:</text>
+            <attr source="IDDLDriverInformation" name="Co-Driver" style="bold" size="10pt" nodate="YES" x="0.5in" y="0.9in" />
+            <text size="5pt" x="0.3in" y="0.95in">-----------------------------------------------------------------------------------------------------------------</text>
+            <text size="6pt" x="1.25in" y="1.025in">(NAME OF CO-DRIVER)</text>
+            <attr source="IDDLDriverInformation" name="Carrier" nodate="YES"  style="bold" size="10pt" x="0.5in" y="1.2in" />
+            <attr source="IDDLDriverInformation" name="Main Office Address" nodate="YES"  style="bold" size="10pt" x="0.5in" y="1.35in" />
+            <text size="5pt" x="0.3in" y="1.4in">------------------------------------------------------------------------------------------------------------------</text>
+            <text size="6pt" x="0.8in" y="1.475in">(HOME OPERATING CENTER AND ADDRESS)</text>
+            <linkattrlist source="IDDLInspection" linkname="Vehicle" name="Name" width="3.2in" wraplines="YES" style="bold" size="10pt" x="3.0in" y="0.75in" />
+            <text size="5pt" x="3.0in" y="0.85in">------------------------------------------------------------------------------------------------</text>
+            <text size="6pt" x="3.5in" y="0.925in">(VEHICLE NUMBERS)</text>
+            <attr source="IDDLDriverInformation" name="Home Terminal" nodate="YES" style="bold" size="10pt" x="3.8in" y="1.25in" />
+            <text size="5pt" x="3.75in" y="1.3in">------------------------------------------------------------------------------------------------</text>
+            <text size="6pt" x="3.9in" y="1.375in">(HOME OPERATING TERMINAL ADDRESS)</text>
+            <miles size="14pt" style="bold" x="3.6in" y="0.175in" />
+            <text size="6pt" x="3.35in" y="0.275in">(TOTAL DISTANCE TRAVELED)</text>
+            
+            <text size="10pt" style="bold" x="0.117in" y="1.7in" width="0.7in" wraplines="YES" >Inspection Done:</text>
+            <text size="13pt" x="0.87in" y="1.8in" width="7pt" height="7pt" boxed="YES" />
+            <conditionaltext size="13pt" x="0.95in" y="1.8in" source="preIDDLInspection" name="Type" limitingvalue="Pre-trip">X</conditionaltext>
+            <conditionaltext size="13pt" x="0.95in" y="1.8in" source="dailyIDDLInspection" name="Type" limitingvalue="Daily">X</conditionaltext>
+            
+        </group>
+    
+    <dailychart x="0.05in" y="2.0in" width="7.2in" height="1.9625in" inspections="YES" totalInDecimal="NO" />
+    <table source="DriverLog" x="0.05in" y="4.25in">
+        <field name="Start" size="9pt" title="Date" titlesize="11pt" x="0in" />
+        <field name="Type Driver Log" size="9pt" title="Type" titlesize="11pt" x="1.6in" />
+        <field name="Odometer" size="9pt" title="Odo." titlesize="11pt" x="2.925in" />
+        <field name="Location" size="9pt" title="Location" titlesize="11pt" x="3.5in" />
+        <field name="Remark" size="9pt" title="Remark" titlesize="11pt" x="5.2in" />
+        <adtlsource source="preIDDLInspection">
+            <fmapping field="Start" name="Date" textcolor="0,0,1" />
+            <fmapping field="Type Driver Log" text="%@ Inspection" name="Type" textcolor="0,0,1" />
+            <fmapping field="Odometer" name="Start odometer" textcolor="0,0,1" />
+            <fmapping field="Location" name="Location" textcolor="0,0,1" />
+            <fmapping field="Remark" name="Observation" textcolor="0,0,1" />
+        </adtlsource>
+        <adtlsource source="postIDDLInspection">
+            <fmapping field="Start" name="Date" textcolor="0,0,1" />
+            <fmapping field="Type Driver Log" text="%@ Inspection" name="Type" textcolor="0,0,1" />
+            <fmapping field="Odometer" name="Odometer" textcolor="0,0,1" />
+            <fmapping field="Location" name="Location" textcolor="0,0,1" />
+            <fmapping field="Remark" name="Observation" textcolor="0,0,1" />
+        </adtlsource>
+        <adtlsource source="loadIDDLInspection">
+            <fmapping field="Start" name="Date" textcolor="0.2,0.7,0.2" />
+            <fmapping field="Type Driver Log" text="%@ Inspection" name="Type" textcolor="0.2,0.7,0.2" />
+            <fmapping field="Odometer" name="Odometer" textcolor="0.2,0.7,0.2" />
+            <fmapping field="Location" name="Location" textcolor="0.2,0.7,0.2" />
+            <fmapping field="Remark" name="Observation" textcolor="0.2,0.7,0.2" />
+            </adtlsource>
+        <adtlsource source="dailyIDDLInspection">
+            <fmapping field="Start" name="Date" textcolor="0.2,0.7,0.2" />
+            <fmapping field="Type Driver Log" text="%@ Inspection" name="Type" textcolor="0.2,0.7,0.2" />
+            <fmapping field="Odometer" name="Odometer" textcolor="0.2,0.7,0.2" />
+            <fmapping field="Location" name="Location" textcolor="0.2,0.7,0.2" />
+            <fmapping field="Remark" name="Observation" textcolor="0.2,0.7,0.2" />
+        </adtlsource>
+        <adtlsource source="failedIDDLInspection">
+            <fmapping field="Start" name="Date" textcolor="0.2,0.7,0.2" />
+            <fmapping field="Type Driver Log" text="%@ Inspection" name="Type" textcolor="0.2,0.7,0.2" />
+            <fmapping field="Odometer" name="Odometer" textcolor="0.2,0.7,0.2" />
+            <fmapping field="Location" name="Location" textcolor="0.2,0.7,0.2" />
+            <fmapping field="Remark" name="Observation" textcolor="0.2,0.7,0.2" />
+        </adtlsource>
+    </table>
+
+    <Inspectionsection x="0.3in" y="13.25in"/>
+
+ 	</body>
+	<foot height="0in">
+	</foot>
+</report>

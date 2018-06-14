@@ -1,0 +1,24 @@
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "18"; */
+"18.title" = "Guardar";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "23"; */
+"23.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Go to www.mobilewarrior.com"; ObjectID = "28"; */
+"28.normalTitle" = "Go to www.mobilewarrior.com";
+
+/* Class = "UIButton"; normalTitle = "Proceed with view only mode"; ObjectID = "29"; */
+"29.normalTitle" = "Continuar con el modo de sólo vista";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "30"; */
+"30.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Route"; ObjectID = "39"; */
+"39.title" = "Ruta";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "43"; */
+"43.title" = "Cancelar";
+
+/* Class = "UILabel"; text = "Tap on 'Add Equipment' to select equipment for this inspection and then tap on 'Perform Inspection' to run the checklist."; ObjectID = "47"; */
+"47.text" = "Toque en \"Agregar\" para seleccionar equipos equipos para esta inspección y, a continuación, toque en \"Realizar inspección\" para ejecutar la lista de comprobación.";

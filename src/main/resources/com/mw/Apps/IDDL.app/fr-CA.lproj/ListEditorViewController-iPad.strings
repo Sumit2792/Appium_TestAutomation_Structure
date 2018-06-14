@@ -1,0 +1,30 @@
+
+/* Class = "UIBarButtonItem"; title = "Map"; ObjectID = "5"; */
+"5.title" = "La carte";
+
+/* Class = "UIBarButtonItem"; title = "Sort"; ObjectID = "6"; */
+"6.title" = "Trier";
+
+/* Class = "UIBarButtonItem"; title = "All Dates"; ObjectID = "7"; */
+"7.title" = "Toutes les Dates";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "11"; */
+"11.title" = "<";
+
+/* Class = "UIBarButtonItem"; title = ">"; ObjectID = "12"; */
+"12.title" = ">";
+
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "30"; */
+"30.title" = "Ajouter";
+
+/* Class = "UILabel"; text = "No Entries Text"; ObjectID = "34"; */
+"34.text" = "Pas d'entrées texte";
+
+/* Class = "UILabel"; text = "This needs to be a detailed explanation of why there is not a single content entry in this list. "; ObjectID = "35"; */
+"35.text" = "Cela doit être une explication détaillée des raisons pour lesquelles il n'y a pas une seule entrée contenu dans cette liste.";
+
+/* Class = "UIButton"; normalTitle = "Button Message"; ObjectID = "46"; */
+"46.normalTitle" = "Message bouton";
+
+/* Class = "UIBarButtonItem"; title = "Sync"; ObjectID = "54"; */
+"54.title" = "Sync";

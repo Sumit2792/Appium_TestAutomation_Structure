@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Update Odo"; ObjectID = "4HW-9W-Dbf"; */
+"4HW-9W-Dbf.normalTitle" = "Actualizar Odón";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VWT-qQ-Tpt"; */
+"VWT-qQ-Tpt.text" = "Label";
+
+/* Class = "UITextView"; text = "\n\n\nUse the Manage BlueTooth button to pair with your vehicle with the ELD Plug-in.\n1. Make sure you are assigned to the correct vehicle number.\n2. Make sure the correct ELD Plug-in is showing in the ELD ID.\n3. If the application does not auto connect and start the ELD, press the initiate ELD button to start the ELD service."; ObjectID = "uBh-av-dvH"; */
+"uBh-av-dvH.text" = "\n\n\nUtilice el botón Administrar BlueTooth para emparejar con el vehículo con el Plug-in de ELD.\n1. Asegúrese de que se asignan al número correcto del vehículo.\n2. Asegurarse del correcto desarrollo del idioma inglés (ELD) Plug-in está mostrando en el ELD ID.\n3. Si la aplicación no auto conectar e iniciar el desarrollo del idioma inglés (ELD), pulse el botón iniciar ELD para iniciar el servicio de ELD.";

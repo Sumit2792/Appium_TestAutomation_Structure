@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Send a new share request to:"; ObjectID = "3"; */
+"3.text" = "Send a new share request to:";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "4"; */
+"4.text" = "Email:";
+
+/* Class = "UITextField"; placeholder = "email@domain.com"; ObjectID = "5"; */
+"5.placeholder" = "email@domain.com";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "6"; */
+"6.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "7"; */
+"7.normalTitle" = "Cancel";

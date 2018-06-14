@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; normalTitle = "PIDT Request"; ObjectID = "3x6-Z2-ciR"; */
+"3x6-Z2-ciR.normalTitle" = "PIDT Request";
+
+/* Class = "UIButton"; normalTitle = "Read DTC"; ObjectID = "6ko-Mr-Qif"; */
+"6ko-Mr-Qif.normalTitle" = "Read DTC";
+
+/* Class = "UIButton"; normalTitle = "Update BT Name"; ObjectID = "Alz-db-69v"; */
+"Alz-db-69v.normalTitle" = "Update BT Name";
+
+/* Class = "UIButton"; normalTitle = "Update S/N"; ObjectID = "ClO-hT-Cld"; */
+"ClO-hT-Cld.normalTitle" = "Update S/N";
+
+/* Class = "UIButton"; normalTitle = "Read VIN"; ObjectID = "H8q-11-0je"; */
+"H8q-11-0je.normalTitle" = "Read VIN";
+
+/* Class = "UIButton"; normalTitle = "PID Request"; ObjectID = "WT1-vM-o3X"; */
+"WT1-vM-o3X.normalTitle" = "PID Request";
+
+/* Class = "UIButton"; normalTitle = "Update EADT"; ObjectID = "bNz-MJ-PEg"; */
+"bNz-MJ-PEg.normalTitle" = "Update EADT";
+
+/* Class = "UIButton"; normalTitle = "Update VIN"; ObjectID = "cNV-Vc-EiI"; */
+"cNV-Vc-EiI.normalTitle" = "Update VIN";
+
+/* Class = "UIButton"; normalTitle = "Set IDR Interval"; ObjectID = "fez-Qw-5dK"; */
+"fez-Qw-5dK.normalTitle" = "Set IDR Interval";
+
+/* Class = "UIButton"; normalTitle = "Reset / Restore"; ObjectID = "if2-dg-0Vb"; */
+"if2-dg-0Vb.normalTitle" = "Reset / Restore";
+
+/* Class = "UIButton"; normalTitle = "Read Settings"; ObjectID = "ikA-3m-HXc"; */
+"ikA-3m-HXc.normalTitle" = "Read Settings";
+
+/* Class = "UIButton"; normalTitle = "Update W/M"; ObjectID = "q3n-Ua-1Ut"; */
+"q3n-Ua-1Ut.normalTitle" = "Update W/M";
+
+/* Class = "UIButton"; normalTitle = "Update Odo"; ObjectID = "ujk-za-RAB"; */
+"ujk-za-RAB.normalTitle" = "Update Odo";

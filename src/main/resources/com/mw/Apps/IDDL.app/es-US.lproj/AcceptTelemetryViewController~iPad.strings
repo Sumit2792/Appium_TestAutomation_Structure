@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "7x7-xY-nyl"; */
+"7x7-xY-nyl.normalTitle" = "Rechazar";
+
+/* Class = "UILabel"; text = "Select the events on the left that do not belong to you and then tap the Reject button"; ObjectID = "IHH-O1-zvv"; */
+"IHH-O1-zvv.text" = "Seleccione los eventos de la izquierda que no le pertenecen a usted y, a continuación, toque el botón rechazar";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "eR4-0x-eMw"; */
+"eR4-0x-eMw.normalTitle" = "Aceptar";
+
+/* Class = "UILabel"; text = "Select the events on the left that belong to you and then tap the Accept button"; ObjectID = "g82-vl-iuR"; */
+"g82-vl-iuR.text" = "Seleccione los eventos a la izquierda que le pertenecen a usted y, a continuación, toque el botón Aceptar";

@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "Off Duty"; ObjectID = "4"; */
+"4.normalTitle" = "En dehors des heures de service";
+
+/* Class = "UIButton"; normalTitle = "Sleeper Berth"; ObjectID = "8"; */
+"8.normalTitle" = "Couchette";
+
+/* Class = "UIButton"; normalTitle = "Driving"; ObjectID = "9"; */
+"9.normalTitle" = "Au volant";
+
+/* Class = "UIButton"; normalTitle = "On Duty"; ObjectID = "10"; */
+"10.normalTitle" = "En service";
+
+/* Class = "UILabel"; text = "Select the type for this driver log entry"; ObjectID = "15"; */
+"15.text" = "Sélectionnez le type de cette entrée de journal pilote";
+
+/* Class = "UIButton"; normalTitle = "Solo Work"; ObjectID = "20"; */
+"20.normalTitle" = "Travail en solo";
+
+/* Class = "UIButton"; normalTitle = "Rest"; ObjectID = "21"; */
+"21.normalTitle" = "Reste";
+
+/* Class = "UIButton"; normalTitle = "Two-up Work"; ObjectID = "22"; */
+"22.normalTitle" = "Le travail de deux";
+
+/* Class = "UIButton"; normalTitle = "Waiting Time"; ObjectID = "32"; */
+"32.normalTitle" = "Temps d'attente";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "XZ6-n8-FgT"; */
+"XZ6-n8-FgT.normalTitle" = "Annuler";

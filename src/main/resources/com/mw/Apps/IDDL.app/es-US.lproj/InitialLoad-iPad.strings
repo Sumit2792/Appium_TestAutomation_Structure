@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Please wait for the initial load to complete"; ObjectID = "3"; */
+"3.text" = "Espere a que la carga inicial para completar";
+
+/* Class = "UILabel"; text = "Now loading:"; ObjectID = "4"; */
+"4.text" = "Ahora cargando:";
+
+/* Class = "UILabel"; text = "0 entries so far"; ObjectID = "5"; */
+"5.text" = "0 entradas hasta ahora";
+
+/* Class = "UILabel"; text = "ContentClass"; ObjectID = "6"; */
+"6.text" = "ContentClass";

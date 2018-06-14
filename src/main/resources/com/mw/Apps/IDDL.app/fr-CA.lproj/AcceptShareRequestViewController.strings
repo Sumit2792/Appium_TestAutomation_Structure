@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "César Piñera wishes to share a Time entry with you"; ObjectID = "4"; */
+"4.text" = "César Piñera wishes to share a Time entry with you";
+
+/* Class = "UIButton"; normalTitle = "Accept this entry"; ObjectID = "6"; */
+"6.normalTitle" = "Accept this entry";
+
+/* Class = "UIButton"; normalTitle = "Accept forever"; ObjectID = "8"; */
+"8.normalTitle" = "Accept forever";
+
+/* Class = "UILabel"; text = "In the future you may also wish to accept or ignore share requests from this user"; ObjectID = "10"; */
+"10.text" = "In the future you may also wish to accept or ignore share requests from this user";
+
+/* Class = "UIButton"; normalTitle = "Ignore forever"; ObjectID = "11"; */
+"11.normalTitle" = "Ignore forever";
+
+/* Class = "UIButton"; normalTitle = "Ignore this entry"; ObjectID = "12"; */
+"12.normalTitle" = "Ignore this entry";

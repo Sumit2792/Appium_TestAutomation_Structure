@@ -1,0 +1,6 @@
+
+/* Class = "UILabel"; text = "Filter list content by date:"; ObjectID = "3"; */
+"3.text" = "Filtrar el contenido de la lista por fecha:";
+
+/* Class = "UIButton"; normalTitle = "Today"; ObjectID = "6"; */
+"6.normalTitle" = "Hoy";

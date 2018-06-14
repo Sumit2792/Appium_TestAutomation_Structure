@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "26"; */
+"26.text" = "Horas";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "27"; */
+"27.text" = "Artículo";
+
+/* Class = "UILabel"; text = "Hour Rule:"; ObjectID = "28"; */
+"28.text" = "Regla de hora:";
+
+/* Class = "UILabel"; text = "Resets every:"; ObjectID = "29"; */
+"29.text" = "Se reajusta cada:";
+
+/* Class = "UILabel"; text = "USA Standard"; ObjectID = "44"; */
+"44.text" = "Norma de EE.UU.";
+
+/* Class = "UILabel"; text = "Driving/On Duty:"; ObjectID = "45"; */
+"45.text" = "Conducción/el deber de:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "46"; */
+"46.text" = "Artículo";
+
+/* Class = "UILabel"; text = "Off Duty Rule:"; ObjectID = "49"; */
+"49.text" = "Regla fuera de servicio:";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "50"; */
+"50.text" = "Horas";
+
+/* Class = "UIBarButtonItem"; title = ">"; ObjectID = "58"; */
+"58.title" = ">";
+
+/* Class = "UIBarButtonItem"; title = "month"; ObjectID = "60"; */
+"60.title" = "Mes";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "62"; */
+"62.title" = "<";
+
+/* Class = "UILabel"; text = "Break Rule:"; ObjectID = "70"; */
+"70.text" = "Romper la regla:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "71"; */
+"71.text" = "Artículo";
+
+/* Class = "UILabel"; text = "Deferral Allowed:"; ObjectID = "78"; */
+"78.text" = "Diferimiento permitidos:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "79"; */
+"79.text" = "Artículo";
+
+/* Class = "UILabel"; text = "Reset Mandatory:"; ObjectID = "82"; */
+"82.text" = "Reset obligatorio:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "83"; */
+"83.text" = "Artículo";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "88"; */
+"88.text" = "Horas";
+
+/* Class = "UILabel"; text = "OffDuty Split Minimum:"; ObjectID = "91"; */
+"91.text" = "Split OffDuty mínimo:";
+
+/* Class = "UILabel"; text = "Subscription Source"; ObjectID = "93"; */
+"93.text" = "Fuente de suscripción";
+
+/* Class = "UILabel"; text = "Electronic Log"; ObjectID = "94"; */
+"94.text" = "Registro electrónico";

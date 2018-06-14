@@ -1,0 +1,104 @@
+<report width="8.5in" height="11in">
+	<margins left="0.4375in" right="0.15625in" top=".5in" bottom="0.5in" />
+	<source name="Load" dateattr="Actual PickUp" />
+	<source name="IDDLInspection" dateattr="Date" limitingattr="Type" limitingvalue="Pre-trip" inclusivelimiting="YES" />
+	<source name="IDDLInspection" dateattr="Date" linkname="IDDLInspectionFailure" limitingattr="Type" limitingvalue="Pre-trip" inclusivelimiting="YES" />
+    <source name="IDDLInspection" dateattr="Date" limitingattr="Type" limitingvalue="Post-trip" sourcename="postIDDLInspection" />
+	<source name="IDDLInspection" dateattr="Date" linkname="IDDLInspectionFailure" limitingattr="Type" limitingvalue="Post-trip" sourcename="postIDDLInspection" />
+	<reportingunit source="IDDLInspection" />
+	
+	<head height="0.3in">
+		<text x="0in" y="0in" size="14pt" style="BOLD">Inspection Report</text>
+	</head>
+	
+	<body>
+        
+		<text size="10pt" x="0in" y="0in" >Date:</text>
+		<text size="10pt" x="1in" y="0in" >Driver Name:</text>
+        <text size="10pt" x="2.5in" y="0in" >Home Terminal:</text>
+        <text size="10pt" x="5.5in" y="0in" >Driver Signature:</text>
+        <date style="bold" x="0in" y="0.15in" size="10pt" />
+		<attr source="IDDLDriverInformation" name="Name" nodate="YES" size="10pt" style="bold" x="1in" y="0.15in" />
+        <attr source="IDDLDriverInformation" name="Home Terminal" nodate="YES" size="10pt" style="bold" x="2.5in" y="0.15in" height="0.5in" />
+        <signature source="IDDLDriverInformation" name="Signature" nodate="YES" size="10pt" x="5.5in" y="0.1in" height="0.5in" />
+
+		<text size="10pt" x="0in" y="0.475in" >Carrier ID:</text>
+        <text size="10pt" x="1in" y="0.475in" >DriverID:</text>
+        <text size="10pt" x="2.5in" y="0.475in" >Document Numbers:</text>
+        <attr source="IDDLDriverInformation" name="Carrier ID" nodate="YES" size="10pt" style="bold" x="0in" y="0.62in" />
+        <attr source="IDDLDriverInformation" name="DriverID" nodate="YES" size="10pt" style="bold" x="1in" y="0.62in" />
+        <attrlist source="IDDLInspection,Load" name="Documents" width="2.2in" wraplines="YES" size="10pt" style="bold" x="2.5in" y="0.62in" />
+
+        <text size="10pt" x="0in" y="1in" >Shipper:</text>
+        <text size="10pt" x="5.5in" y="0.95in" >Commodities:</text>
+        <attrlist source="IDDLInspection,Load" name="Shipper" size="10pt" style="bold" x="0.95in" y="1in" />
+        <attrlist source="IDDLInspection,Load" name="Commodities" width="2.2in" wraplines="YES" size="10pt" style="bold" x="5.5in" y="1.1in" />
+
+		<text size="10pt" x="0in" y="1.2in" >Carrier:</text>
+		<attr source="IDDLDriverInformation" name="Carrier" nodate="YES" size="10pt" style="bold" x="0.95in" y="1.2in" />
+
+        <text size="10pt" x="0in" y="1.4in" >Carrier Office:</text>
+        <attr source="IDDLDriverInformation" name="Main Office Address" nodate="YES" size="10pt" style="bold" x="0.95in" y="1.4in" height="0.5in" />
+
+        
+        <text style="BOLD" x="0.3in" y="1.65in" size="13pt">Pre-Trip Inspection</text>
+        <text style="BOLD" x="0.6in" y="1.9in" size="12pt">Equipment Numbers:</text>
+
+		<linkattrlist source="IDDLInspection" linkname="Vehicle" name="Name" size="12pt" x="2.5in" y="1.9in" />
+		<attr source="IDDLInspection" name="Date" dateformat="hh:mm:ss a" style="BOLD" size="10pt" x="0in" y="2.20in" />
+        <property source="IDDLInspection" name="Location" style="BOLD" size="10pt" x="1.2in" y="2.20in" />
+
+		<inspectionpassed source="IDDLInspection" x="0.2in" y="2.6in" size="14pt">Pass</inspectionpassed>
+		<inspectionpassed source="IDDLInspection" x="0.2in" y="3.4in" size="14pt" reverse="YES">Fail</inspectionpassed>
+        <text style="BOLD" x="1in" y="2.55in" size="10pt">I detect no defect or deficiency in these motor vehicle's as would be likely to effect the safety of</text>
+        <text style="BOLD" x="1in" y="2.8in" size="10pt">its operation or result in its mechanical breakdown.</text>
+        <text style="BOLD" x="1in" y="3.2in" size="10pt">I detect the following defect or deficiency in these motor vehicle's as would be likely to effect the</text>
+        <text style="BOLD" x="1in" y="3.45in" size="10pt">safety of its operation or result in its mechanical breakdown.</text>
+
+		<table source="IDDLInspection" linkname="IDDLInspectionFailure" x="0in" y="3.8375in">
+			<field name="Name" mappingname="vehicleName" sublinkname="Vehicle" size="9pt" title="Equipment Number" titlesize="11pt" x="0in" />
+			<field name="Type" sublinkname="Vehicle" size="9pt" title="Type" titlesize="11pt" x="1.4in" />
+			<field name="Name" size="9pt" title="Failed item" titlesize="11pt" x="2.1in" />
+			<field name="Remark" size="9pt" title="Descriptions" titlesize="11pt" x="4.0in" />
+            <adtlsource source="IDDLInspection">
+				<fmapping field="vehicleName" text="-" />
+				<fmapping field="Type" text="-" />
+				<fmapping field="Name" text="Non-Failure Observation" />
+				<fmapping field="Remark" name="Observation" />
+			</adtlsource>
+		</table>
+        
+        <text style="BOLD" x="0.3in" y="5.25in" size="13pt">Post-Trip Inspection</text>
+        <text style="BOLD" x="0.6in" y="5.5in" size="12pt">Equipment Numbers:</text>
+
+        <linkattrlist source="postIDDLInspection" linkname="Vehicle" name="Name" size="12pt" x="2.5in" y="5.5in" />
+		<attr source="postIDDLInspection" name="Date" dateformat="hh:mm:ss a" style="BOLD" size="10pt" x="0in" y="5.8in" />
+        <attr source="postIDDLInspection" name="Location" style="BOLD" size="10pt" x="1.2in" y="5.8in" />
+				
+		<inspectionpassed source="postIDDLInspection" x="0.2in" y="6.1in" size="14pt">Pass</inspectionpassed>
+		<inspectionpassed source="postIDDLInspection" x="0.2in" y="6.9in" size="14pt" reverse="YES">Fail</inspectionpassed>
+        <text style="BOLD" x="1in" y="6.05in" size="10pt">I detect no defect or deficiency in these motor vehicle's as would be likely to effect the safety of</text>
+        <text style="BOLD" x="1in" y="6.3in" size="10pt">its operation or result in its mechanical breakdown.</text>
+        <text style="BOLD" x="1in" y="6.7in" size="10pt">I detect the following defect or deficiency in these motor vehicle's as would be likely to effect the</text>
+        <text style="BOLD" x="1in" y="6.95in" size="10pt">safety of its operation or result in its mechanical breakdown.</text>
+
+		<table source="postIDDLInspection" linkname="IDDLInspectionFailure" x="0in" y="7.3375in">
+			<field name="Name" mappingname="vehicleName" sublinkname="Vehicle" size="9pt" title="Equipment Number" titlesize="11pt" x="0in" />
+			<field name="Type" sublinkname="Vehicle" size="9pt" title="Type" titlesize="11pt" x="1.4in" />
+			<field name="Name" size="9pt" title="Failed item" titlesize="11pt" x="2.1in" />
+			<field name="Remark" size="9pt" title="Descriptions" titlesize="11pt" x="4.0in" />
+			<adtlsource source="postIDDLInspection">
+				<fmapping field="vehicleName" text="-" />
+				<fmapping field="Type" text="-" />
+				<fmapping field="Name" text="Non-Failure Observation" />
+				<fmapping field="Remark" name="Observation" />
+			</adtlsource>
+		</table>
+		
+	</body>
+	
+	<foot height="10pt">
+		<reporttimestamp x="0in" y="0in" size="10pt" />
+	</foot>
+
+</report>

@@ -1,0 +1,6 @@
+
+/* Class = "UILabel"; text = "New attribute name:"; ObjectID = "7"; */
+"7.text" = "Nuevo nombre de atributo:";
+
+/* Class = "UITextField"; placeholder = "Attribute name"; ObjectID = "8"; */
+"8.placeholder" = "Nombre de atributo";

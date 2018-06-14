@@ -1,0 +1,95 @@
+<report width="8.27in" height="11.69in">
+    <margins left="0.10625in" right="0.05625in" top="0.2125in" bottom="0.15625in" />
+
+	<source name="IDDLInspection" dateattr="Date" />
+	<source name="DriverLog" dateattr="Start" />
+    <source name="Load" dateattr="Actual PickUp" />
+	
+	<head height="0.5625in">
+		<text size="6pt" x="0in" y="0in">Driver Number</text>
+		<text size="7pt" style="bold" x="4.15626in" y=".88in">DRIVER"S DAILY LOG</text>
+		<text size="4pt" x="5.32in" y="0.66in">ORIGINAL - Submit to carrier</text>
+		<text size="4pt" x="5.32in" y="0.81in">DUPLICATE - Driver retain</text>
+	    <text size="4pt" x="6.25in" y="0in">(MONTH)(DAY)(YEAR)</text>  
+		<date size="7pt" x="6.25in" y="0.70in" boxed="YES" />
+		<attrlist source="IDDLDriverInformation" name="DriverId" size="7pt" boxed="YES" x="1.15in" y=".4in" />
+	</head>
+	
+	<body>
+
+		<text size="5pt" x=".6in" y=".75in">Driver's Initials</text>
+		<text size="5pt" x="4.15626in" y="0.91in">(ONE CALENDAR DAY-24 HOURS)</text>
+		<text size="5pt" x="4.15626in" y="1in">CN only: Cycle:70 hr./7 day</text>
+
+		<signature size="6in" style="underline" x="0in" y="1.43in"/>
+		<text size="2.5pt" x="0in" y="1.7in">(Driver's Signature in Full) I certify these entries are true and correct.</text>
+		<text size="2.5pt" x="4.15626in" y="1.37in">Vehicle Numbers - (Show each unit)</text>
+		<text size="5pt" style="underline" x="4.46in" y="1.23in">N/A</text>
+		<linkattrlist source="IDDLInspection" linkname="Vehicle" name="License Plates" style="underline" nodate="YES" size="7pt" x="4.15626in" y="1.27in" />
+		<text size="2.5pt" x="5.47in" y="1.37in"> (Total Driving Miles Today)</text>
+		<miles size="5pt" x="5.47in" y="1.27in" boxed="YES" />
+		
+		
+		<text size="2.5pt" x="0in" y="2.02in">(NAME OF CO-DRIVER)</text>
+		<text size="4pt" x="5.15626in" style="underline" y="1.45in">N/A</text>
+		<text size="4pt" x="5.65626in" style="underline" y="1.45in">N/A</text>
+		<text size="4pt" x="5.15626in" style="underline" y="1.45in">N/A</text>
+		<text size="2.5pt" x="5.47in" y="1.78in" >(TOTAL TRUCK MILAGE TODAY)</text>
+		<text size="2.5pt" x="6.47in" y="1.46in" >(END DATE)</text>
+		<text size="2.5pt" x="7in" y="1.78in" >(MONTH)(DAY)(YEAR)</text>
+		<attr source="IDDLDriverInformation" name="Co-Driver" size="5pt" x="1.55in" y="1.72in" />
+		<attr source="IDDLInspection" name="Total Miles" size="5pt" x="5.47in" y="1.62in" boxed="YES" /> 
+		<date size="7pt" x="10in" y="1.80in" boxed="YES" />
+		
+		<text size="2.5pt" x="1.55in" y="2.35in">(HOME OPERATING CENTER AND ADDRESS)</text>
+		<text size="2.5pt" style="underline" style="bold" x="5.18in" y="2.15in">Schneider National Carriers, Inc., Green Bay, WI</text>
+		<text size="2.5pt" style="underline" style="bold" x="5.18in" y="2.45in">Safety Records Maintained in Green Bay, WI</text>
+		
+		<dailychart x="0in" y="2.46in" width="8.7in" height=".97in" totalInDecimal="NO" />
+		
+		<text size="7pt" x="0.0in" y="3.26in" style="bold">REMARKS</text>
+		<text size="6pt" x="0.0in" y="4.40in" style="bold">SHIPPER</text>
+		<text size="6pt" x="2.85in" y="4.40in" style="bold">COMMODITY</text>
+		<text size="6pt" x="5.18in" y="4.40in" style="bold">LOAD NO.</text>
+		<attr source="IDDLInspection" name="Shipper" size="5pt" x="1.7in" y="4..44in" />
+		<attrlist source="IDDLInspection,Load" name="Commodities" size="5pt" x="4.44in" y="4.6in" />
+		<attrlist source="Vehicle" name="MCTD#" size="5pt" x="5.87in" y="4.44in" />
+		<text size="5pt" x="3.78in" y="4.52in"> Each Change of duty status must have a location in the "remarks" section. Use local time standard at home operating center</text>
+		
+		<date size="6pt" x="0in" y="5in" boxed="YES" />
+		<text size="2.5pt" x="0in" y="4.75in"> (MONTH)(DAY)(YEAR)</text>
+		<text size="9pt" x="2.37in" y="5in" style ="bold">POST TRIP INSPECTION REPORT</text>
+		<text size="2pt" x="2.13in" y="5.21in"> (Equipment is checked in accordance with schedule 1 of the National Safety Code Standard 13)</text>
+		<text size="3pt" x="1.85in" y="5.4in"> TRACTOR/TRAILER NO.:</text>
+		<attrlist source="Vehicle" name="MCTD#" size="5pt" x="3.07in" style ="underline" y="5.41in" />
+		<inspectionpassed x="0.1in" y="5.52in" size="3pt" boxed="YES">X</inspectionpassed>
+		<inspectionpassed x="0.1in" y="5.66in" size="3pt" boxed="YES" reverse="YES">X</inspectionpassed>
+		<text size="2.5pt" x=".2in" y="5.52in"> I detect no defect in this motor vehice likely to affect safe operation or result in mechanical breakdown</text>
+		<text size="2.5pt" x=".2in" y="5.66in"> I detect the following such defects- Descrive in detail.</text>
+		<attrlist source="IDDLInspection" name="IDDLInspectionFailure" size="3pt" x=".2in" y="5.86in" style="underline" />
+		<text size="3.5pt" x=".1in" y="6.1in">DRIVER'S NAME(PRINT)</text>
+		<attrlist source="IDDLDriverInformation" name="Name" size="3pt" x="1.31in" y="6.1" style="underline" />
+		<text size="3.5pt" x="3.56in" y="6.1in"> DRIVER"S SIGNATURE</text>
+		<signature size="4pt" x="4.71in" y="6.1" style="underline" />
+		
+		<text size="3pt" x=".1in" y="6.25in" style="underline">_______________________________________________________________________________________________________________________________________________________</text>
+		<text size="3pt" x=".2in" y="6.31in">Above defects corrected</text>
+		<text size="3pt" x=".2in" y="6.49in">Above defects need not be corrected</text>
+		<text size="3.5pt" x=".1in" y="6.69in">MECHANIC's SIGNATURE</text>
+		<text size="3.5pt" x="2.85in" y="6.69in">DRIVER'S SIGNATURE</text>
+		<signature size="4pt" x="7.81in" y="6.69in" style="underline" />
+		
+		<text size="3.5pt" x="8.67in" y="6.69in">DATE</text>
+		<date size="3.5pt" x="9.02in" y="6.69in" />
+		
+		<text size="2pt" x="2.25in" y="6.9in">Published by J.J. KELLER AND ASSOCIATES, INC., Neenah, WI-USA- (800)327-6868 </text>	
+	
+		<text size="4pt" x="0in" y="7.2in" style="underline">________________________________________________________________________________________________________________________________________</text>
+		<text size="9pt" x="0in" y="7.35in" style="bold">VERY IMPORTAINT: Cut log sheet to this line. VERY IMPORTAINT.</text>
+		
+
+	</body>
+	
+	<foot height="0in">
+	</foot>
+</report>

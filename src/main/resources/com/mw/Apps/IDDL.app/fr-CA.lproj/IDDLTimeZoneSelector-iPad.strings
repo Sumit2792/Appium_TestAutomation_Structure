@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Select your home terminal timezone"; ObjectID = "4"; */
+"4.text" = "Sélectionnez votre fuseau horaire la borne d'accueil";
+
+/* Class = "UIButton"; normalTitle = "Alaska (AKST)"; ObjectID = "19"; */
+"19.normalTitle" = "Alaska (AKST)";
+
+/* Class = "UIButton"; normalTitle = "Central (CST)"; ObjectID = "20"; */
+"20.normalTitle" = "Central (CST)";
+
+/* Class = "UIButton"; normalTitle = "East (EST)"; ObjectID = "21"; */
+"21.normalTitle" = "East (EST)";
+
+/* Class = "UIButton"; normalTitle = "Hawaii (HST)"; ObjectID = "22"; */
+"22.normalTitle" = "Hawaii (HST)";
+
+/* Class = "UIButton"; normalTitle = "Mountain (MST)"; ObjectID = "23"; */
+"23.normalTitle" = "Mountain (MST)";
+
+/* Class = "UIButton"; normalTitle = "Pacific (PST)"; ObjectID = "24"; */
+"24.normalTitle" = "Pacific (PST)";

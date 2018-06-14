@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "26"; */
+"26.text" = "Heures";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "27"; */
+"27.text" = "La règle";
+
+/* Class = "UILabel"; text = "Hour Rule:"; ObjectID = "28"; */
+"28.text" = "Heures:";
+
+/* Class = "UILabel"; text = "Resets every:"; ObjectID = "29"; */
+"29.text" = "Réinitialise tous les:";
+
+/* Class = "UILabel"; text = "USA Standard"; ObjectID = "44"; */
+"44.text" = "Norme USA";
+
+/* Class = "UILabel"; text = "Driving/On Duty:"; ObjectID = "45"; */
+"45.text" = "Conduite/de service:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "46"; */
+"46.text" = "La règle";
+
+/* Class = "UILabel"; text = "Off Duty Rule:"; ObjectID = "49"; */
+"49.text" = "La règle hors-service:";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "50"; */
+"50.text" = "Heures";
+
+/* Class = "UIBarButtonItem"; title = ">"; ObjectID = "58"; */
+"58.title" = ">";
+
+/* Class = "UIBarButtonItem"; title = "month"; ObjectID = "60"; */
+"60.title" = "Mois";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "62"; */
+"62.title" = "<";
+
+/* Class = "UILabel"; text = "Break Rule:"; ObjectID = "70"; */
+"70.text" = "Briser la règle:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "71"; */
+"71.text" = "La règle";
+
+/* Class = "UILabel"; text = "Deferral Allowed:"; ObjectID = "78"; */
+"78.text" = "Permis de report:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "79"; */
+"79.text" = "La règle";
+
+/* Class = "UILabel"; text = "Reset Mandatory:"; ObjectID = "82"; */
+"82.text" = "Réinitialiser obligatoires:";
+
+/* Class = "UILabel"; text = "Rule"; ObjectID = "83"; */
+"83.text" = "La règle";
+
+/* Class = "UILabel"; text = "Hours"; ObjectID = "88"; */
+"88.text" = "Heures";
+
+/* Class = "UILabel"; text = "OffDuty Split Minimum:"; ObjectID = "91"; */
+"91.text" = "Les suicides commis par Split Minimum:";
+
+/* Class = "UILabel"; text = "Subscription Source"; ObjectID = "93"; */
+"93.text" = "Source d'abonnement";
+
+/* Class = "UILabel"; text = "Electronic Log"; ObjectID = "94"; */
+"94.text" = "Journal électronique";

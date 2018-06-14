@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Please enter your current odometer reading below:"; ObjectID = "4"; */
+"4.text" = "Introduzca su lectura actual del odómetro a continuación:";
+
+/* Class = "UIButton"; normalTitle = "Record Odometer"; ObjectID = "6"; */
+"6.normalTitle" = "Grabar el Cuentakilómetros";
+
+/* Class = "UILabel"; text = "Use for ending odometer of last inspection"; ObjectID = "18"; */
+"18.text" = "Utilizar para acabar con el cuentakilómetros de la última inspección";
+
+/* Class = "UILabel"; text = "What Type of Inspection is this?"; ObjectID = "25"; */
+"25.text" = "¿Qué tipo de inspección es esto?";
+
+/* Class = "UISegmentedControl"; 26.segmentTitles[0] = "Pre-trip"; ObjectID = "26"; */
+"26.segmentTitles[0]" = "Pre-trip";
+
+/* Class = "UISegmentedControl"; 26.segmentTitles[1] = "Check"; ObjectID = "26"; */
+"26.segmentTitles[1]" = "Check";
+
+/* Class = "UISegmentedControl"; 26.segmentTitles[2] = "Post-trip"; ObjectID = "26"; */
+"26.segmentTitles[2]" = "Post-trip";
+
+/* Class = "UISegmentedControl"; 26.segmentTitles[3] = "Daily"; ObjectID = "26"; */
+"26.segmentTitles[3]" = "Daily";
+
+/* Class = "UIButton"; normalTitle = "Skip Odometer"; ObjectID = "29"; */
+"29.normalTitle" = "Omitir el Cuentakilómetros";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "Adt-c2-CHu"; */
+"Adt-c2-CHu.normalTitle" = "Continuar";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Yu0-nJ-jZd"; */
+"Yu0-nJ-jZd.normalTitle" = "Cancelar";

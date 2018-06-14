@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "With your finger sign your name in the space above. Signature you provide is used for official certification of reports. Triple tap to start over."; ObjectID = "4"; */
+"4.text" = "Avec votre doigt signer votre nom dans l'espace ci-dessus. La signature que vous fournissez sont utilisées pour les rapports de certification. Appuyez sur triple pour recommencer.";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "5"; */
+"5.normalTitle" = "Annuler";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "6"; */
+"6.normalTitle" = "Accepter";
+
+/* Class = "UILabel"; text = "Please provide your signature:"; ObjectID = "7"; */
+"7.text" = "Veuillez fournir votre signature:";

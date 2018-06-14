@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "Alaska (AKST)"; ObjectID = "4"; */
+"4.normalTitle" = "Alaska (AKST)";
+
+/* Class = "UIButton"; normalTitle = "Central (CST)"; ObjectID = "5"; */
+"5.normalTitle" = "Central (CST)";
+
+/* Class = "UIButton"; normalTitle = "East (EST)"; ObjectID = "6"; */
+"6.normalTitle" = "East (EST)";
+
+/* Class = "UIButton"; normalTitle = "Hawaii (HST)"; ObjectID = "7"; */
+"7.normalTitle" = "Hawaii (HST)";
+
+/* Class = "UILabel"; text = "Select your home terminal timezone"; ObjectID = "8"; */
+"8.text" = "Seleccione su zona horaria terminal doméstico";
+
+/* Class = "UIButton"; normalTitle = "Mountain (MST)"; ObjectID = "9"; */
+"9.normalTitle" = "Mountain (MST)";
+
+/* Class = "UIButton"; normalTitle = "Pacific (PST)"; ObjectID = "10"; */
+"10.normalTitle" = "Pacific (PST)";

@@ -1,0 +1,1613 @@
+2018-05-22 17:46:21 INFO  TestBase:32 - Initializing Driver.
+2018-05-22 17:46:52 INFO  TestBase:32 - Initializing Driver.
+2018-05-22 17:47:21 INFO  TestBase:32 - Initializing Driver.
+2018-05-22 17:47:51 INFO  TestBase:32 - Initializing Driver.
+2018-05-22 17:54:08 INFO  TestBase:32 - Initializing Driver.
+2018-05-22 17:54:37 INFO  TestBase:32 - Initializing Driver.
+2018-05-22 17:55:06 INFO  TestBase:32 - Initializing Driver.
+2018-05-23 18:04:10 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/common.properties
+2018-05-23 18:04:10 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:04:10 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:04:10 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:04:10 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:04:10 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:04:10 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:04:10 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:04:10 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:04:10 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:04:10 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:04:10 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:04:10 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:05:30 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/common.properties
+2018-05-23 18:05:30 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:05:30 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:05:30 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:05:30 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:05:30 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:05:30 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:05:30 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:05:30 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:05:30 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:05:30 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:05:30 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:05:30 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:05:59 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/common.properties
+2018-05-23 18:05:59 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:05:59 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:05:59 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:05:59 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:05:59 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:05:59 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:05:59 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:05:59 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:05:59 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:05:59 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:05:59 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:05:59 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:07:54 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/common.properties
+2018-05-23 18:07:54 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:07:54 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:07:54 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:07:56 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:07:56 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:07:56 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:07:57 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:07:57 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:07:57 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:07:58 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:07:58 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:07:58 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:18:50 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/common.properties
+2018-05-23 18:18:50 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:18:50 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:18:50 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:18:50 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:19:50 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:19:50 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:19:50 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:19:50 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:20:48 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:20:48 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:20:48 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:20:48 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:21:47 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:21:47 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:21:47 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:21:47 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:23:00 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/common.properties
+2018-05-23 18:23:00 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:23:00 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:23:00 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:23:01 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:23:01 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:23:01 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:23:02 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:23:02 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:23:02 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:23:03 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:23:03 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:23:03 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:23:53 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/common.properties
+2018-05-23 18:23:53 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:23:53 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:23:53 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:24:23 INFO  TestBase:43 - Initializing Driver.
+2018-05-23 18:24:23 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-05-23 18:24:23 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-05-23 18:24:25 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:24:25 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:24:25 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:24:53 INFO  TestBase:43 - Initializing Driver.
+2018-05-23 18:24:53 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-05-23 18:24:53 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-05-23 18:24:55 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:24:55 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:24:55 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-05-23 18:25:23 INFO  TestBase:43 - Initializing Driver.
+2018-05-23 18:25:23 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-05-23 18:25:23 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-05-23 18:25:24 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/config/android.properties
+2018-05-23 18:25:24 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/common.properties
+2018-05-23 18:25:24 INFO  BaseUtil:76 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 14:49:45 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 14:49:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 14:49:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 14:49:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 14:49:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 14:49:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 14:50:06 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (3f66d9ca-b929-41c0-b9ae-e08be03904d3)
+2018-06-01 14:50:06 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 14:50:06 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 14:50:06 INFO  LoginPageTest:36 - TC01_LoginPage Test Suite Started
+2018-06-01 14:50:09 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 14:50:09 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 14:50:10 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 14:50:10 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 14:50:10 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 14:50:10 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 14:50:10 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 14:50:10 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 14:50:10 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 14:50:14 INFO  LoginPageTest:53 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 14:50:19 INFO  LoginPageTest:67 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 14:51:12 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 14:51:12 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 14:51:12 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 14:51:12 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 14:51:12 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 14:51:12 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 14:51:26 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (e7e17993-6f1a-45a8-b3cd-9e885c8d7f38)
+2018-06-01 14:51:27 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 14:51:27 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 14:51:27 INFO  BaseUtil:298 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__02_50_14PM.png
+2018-06-01 14:51:27 INFO  BaseUtil:298 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__02_50_19PM.png
+2018-06-01 14:51:27 INFO  BaseUtil:298 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__02_50_34PM.png
+2018-06-01 14:51:27 INFO  BaseUtil:298 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 14:51:27 INFO  LoginPageTest:36 - TC01_LoginPage Test Suite Started
+2018-06-01 14:51:30 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 14:51:30 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 14:51:30 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 14:51:30 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 14:51:30 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 14:51:30 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 14:51:30 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 14:51:31 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 14:51:31 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 16:23:46 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 16:23:46 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 16:23:46 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 16:23:46 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 16:23:46 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 16:23:46 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 16:26:16 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 16:26:16 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 16:26:16 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 16:26:16 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 16:26:16 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 16:26:16 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 16:26:32 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (057a3b34-2c1a-41d6-b129-8a5b655324c6)
+2018-06-01 16:26:32 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 16:26:32 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 16:26:32 INFO  BaseUtil:298 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__02_51_34PM.png
+2018-06-01 16:26:32 INFO  BaseUtil:298 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 16:26:32 INFO  LoginPageTest:36 - TC01_LoginPage Test Suite Started
+2018-06-01 16:26:35 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 16:26:38 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 16:26:38 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 16:26:38 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 16:26:39 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 16:26:39 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 16:26:39 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 16:26:39 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 16:26:39 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 16:26:42 INFO  LoginPageTest:53 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 16:27:57 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 16:27:57 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 16:27:57 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 16:27:57 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 16:27:57 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 16:27:57 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 16:28:11 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (c807cc13-a2d4-4977-8178-01e9f1608dda)
+2018-06-01 16:28:11 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 16:28:11 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 16:28:11 INFO  BaseUtil:298 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__04_26_42PM.png
+2018-06-01 16:28:11 INFO  BaseUtil:298 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__04_26_45PM.png
+2018-06-01 16:28:11 INFO  BaseUtil:298 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 16:28:11 INFO  LoginPageTest:36 - TC01_LoginPage Test Suite Started
+2018-06-01 16:28:14 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 16:28:14 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 16:28:14 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 16:28:15 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 16:28:15 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 16:28:15 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 16:28:15 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 16:28:15 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 16:28:15 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 16:28:18 INFO  LoginPageTest:53 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 16:38:39 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 16:38:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 16:38:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 16:38:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 16:38:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 16:38:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 16:38:52 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (77e10ad5-5bfe-4944-a5b2-d74123ecf738)
+2018-06-01 16:38:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 16:38:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 16:38:52 INFO  BaseUtil:298 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__04_28_18PM.png
+2018-06-01 16:38:52 INFO  BaseUtil:298 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__04_28_22PM.png
+2018-06-01 16:38:52 INFO  BaseUtil:298 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 16:38:52 INFO  LoginPageTest:36 - TC01_LoginPage Test Suite Started
+2018-06-01 16:38:55 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 16:38:55 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 16:38:55 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 16:38:55 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 16:38:55 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 16:38:56 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 16:38:56 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 16:38:56 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 16:38:56 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 16:38:59 INFO  LoginPageTest:53 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 16:40:02 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 16:40:03 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 16:40:03 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 16:40:03 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 16:40:03 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 16:40:03 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 16:40:14 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (a76732ec-0237-45e6-969b-9e7fc80f02f3)
+2018-06-01 16:40:15 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 16:40:15 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 16:40:15 INFO  BaseUtil:298 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__04_38_59PM.png
+2018-06-01 16:40:15 INFO  BaseUtil:298 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__04_39_03PM.png
+2018-06-01 16:40:15 INFO  BaseUtil:298 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 16:40:15 INFO  LoginPageTest:36 - TC01_LoginPage Test Suite Started
+2018-06-01 16:40:18 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 16:40:18 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 16:40:18 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 16:40:18 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 16:40:18 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 16:40:18 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 16:40:18 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 16:40:19 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 16:40:19 INFO  BaseUtil:165 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 16:40:22 INFO  LoginPageTest:53 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 17:28:22 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 17:28:22 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 17:28:22 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:28:22 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 17:28:22 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 17:28:22 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:28:47 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 17:28:47 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 17:28:47 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:28:47 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 17:28:47 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 17:28:47 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:29:00 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (1cf7e1c3-f151-49a8-ba72-ec95f472bfdd)
+2018-06-01 17:29:00 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 17:29:00 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 17:29:00 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_26_43PM.png
+2018-06-01 17:29:00 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_27_04PM.png
+2018-06-01 17:29:00 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 17:29:00 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-01 17:29:04 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 17:29:39 INFO  LoginPageTest:52 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 17:33:08 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 17:33:08 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 17:33:08 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:33:08 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 17:33:08 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 17:33:08 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:33:22 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (bc668744-d560-419d-b723-28d4df22cea2)
+2018-06-01 17:33:22 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 17:33:22 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 17:33:23 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_29_39PM.png
+2018-06-01 17:33:23 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 17:33:23 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-01 17:33:26 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 17:33:26 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 17:33:26 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 17:33:27 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 17:33:27 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 17:33:27 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 17:33:27 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 17:33:27 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 17:33:27 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 17:33:31 INFO  LoginPageTest:52 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 17:44:13 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 17:44:13 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 17:44:13 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:44:13 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 17:44:13 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 17:44:13 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:44:25 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (0b2e9125-c2dd-447a-bbe4-95ee6ee69160)
+2018-06-01 17:44:25 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 17:44:25 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 17:44:25 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_42_27PM.png
+2018-06-01 17:44:25 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_42_43PM.png
+2018-06-01 17:44:25 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 17:44:25 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-01 17:44:28 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 17:44:29 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 17:44:29 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 17:44:29 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 17:44:29 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 17:44:29 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 17:44:29 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 17:44:29 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 17:44:30 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 17:44:33 INFO  LoginPageTest:52 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 17:48:49 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 17:48:49 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 17:48:49 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:48:49 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 17:48:49 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 17:48:49 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:49:02 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (79b134b7-dca8-439a-b1a0-ba2394f5e7a7)
+2018-06-01 17:49:02 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 17:49:02 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 17:49:02 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_44_33PM.png
+2018-06-01 17:49:02 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_44_50PM.png
+2018-06-01 17:49:02 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 17:49:02 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-01 17:49:05 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 17:49:05 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 17:49:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 17:49:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 17:49:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 17:49:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 17:49:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 17:49:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 17:49:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 17:49:10 INFO  LoginPageTest:52 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 17:50:26 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 17:50:26 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 17:50:26 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:50:26 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 17:50:26 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 17:50:26 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:50:38 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (a8d5a675-77af-4d8a-a5df-7eb59bbf5391)
+2018-06-01 17:50:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 17:50:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 17:50:39 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_49_10PM.png
+2018-06-01 17:50:39 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_49_14PM.png
+2018-06-01 17:50:39 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 17:50:39 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-01 17:50:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 17:50:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 17:50:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 17:50:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 17:50:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 17:50:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 17:50:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 17:50:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 17:50:43 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 17:50:46 INFO  LoginPageTest:52 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 17:52:07 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 17:52:07 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 17:52:07 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:52:07 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 17:52:07 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 17:52:07 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:52:19 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (f400f036-d43e-4c8f-8541-b50038d8d95e)
+2018-06-01 17:52:19 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 17:52:19 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 17:52:19 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_50_46PM.png
+2018-06-01 17:52:19 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_50_50PM.png
+2018-06-01 17:52:19 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 17:52:19 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-01 17:52:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 17:52:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 17:52:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 17:52:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 17:52:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 17:52:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 17:52:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 17:52:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 17:52:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 17:52:26 INFO  LoginPageTest:52 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 17:53:40 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 17:53:40 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 17:53:40 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:53:40 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 17:53:40 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 17:53:40 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 17:53:52 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (fd639c6a-f755-48fc-932a-79291aad28c6)
+2018-06-01 17:53:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 17:53:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 17:53:52 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_52_26PM.png
+2018-06-01 17:53:52 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_52_55PM.png
+2018-06-01 17:53:52 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 17:53:52 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-01 17:53:55 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 17:53:55 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 17:53:56 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 17:53:56 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 17:53:56 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 17:53:56 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 17:53:56 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 17:53:56 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 17:53:56 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 17:53:59 INFO  LoginPageTest:52 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 17:54:28 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 18:18:38 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 18:18:38 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 18:18:38 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 18:18:38 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 18:18:38 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 18:18:38 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 18:18:53 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (e258e260-656f-42c7-bdac-98d8996cd926)
+2018-06-01 18:18:53 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 18:18:53 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 18:18:53 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_53_59PM.png
+2018-06-01 18:18:53 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_54_28PM.png
+2018-06-01 18:18:53 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__05_54_49PM.png
+2018-06-01 18:18:53 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 18:18:53 INFO  LoginPageTest:37 - TC01_LoginPage Test Suite Started
+2018-06-01 18:18:56 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 18:18:56 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 18:18:56 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 18:18:56 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 18:18:56 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 18:18:56 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 18:18:57 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 18:18:57 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 18:18:57 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 18:19:00 INFO  LoginPageTest:54 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 18:19:29 INFO  LoginPageTest:68 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 18:19:47 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 18:19:47 INFO  BaseUtil:234 - Waiting for [1000] millisec before the next step.
+2018-06-01 18:19:48 INFO  BaseUtil:234 - Waiting for [1000] millisec before the next step.
+2018-06-01 18:19:49 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/relative
+2018-06-01 18:22:17 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 18:22:18 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 18:22:18 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 18:22:18 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 18:22:18 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 18:22:18 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 18:22:30 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (ae7b6b91-5132-4e43-a8f0-405168344ce7)
+2018-06-01 18:22:30 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 18:22:30 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 18:22:30 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_19_00PM.png
+2018-06-01 18:22:30 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_19_29PM.png
+2018-06-01 18:22:30 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_19_53PM.png
+2018-06-01 18:22:30 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 18:22:30 INFO  LoginPageTest:37 - TC01_LoginPage Test Suite Started
+2018-06-01 18:22:33 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 18:22:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 18:22:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 18:22:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 18:22:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 18:22:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 18:22:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 18:22:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 18:22:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 18:22:38 INFO  LoginPageTest:54 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 18:23:08 INFO  LoginPageTest:68 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 18:24:25 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 18:24:25 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 18:24:25 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 18:24:25 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 18:24:25 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 18:24:25 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 18:24:38 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (04dad636-67eb-49d2-b2f2-08bc603c09e2)
+2018-06-01 18:24:38 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 18:24:38 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 18:24:38 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_22_38PM.png
+2018-06-01 18:24:38 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_23_08PM.png
+2018-06-01 18:24:38 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_23_12PM.png
+2018-06-01 18:24:38 INFO  BaseUtil:294 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 18:24:38 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-01 18:24:41 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 18:24:41 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 18:24:41 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 18:24:41 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 18:24:41 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 18:24:41 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 18:24:41 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 18:24:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 18:24:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 18:24:45 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 18:25:11 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 18:25:11 INFO  BaseUtil:234 - Waiting for [10000] millisec before the next step.
+2018-06-01 18:25:53 INFO  BaseUtil:234 - Waiting for [5000] millisec before the next step.
+2018-06-01 18:26:01 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 18:26:19 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 18:26:19 INFO  BaseUtil:234 - Waiting for [10000] millisec before the next step.
+2018-06-01 18:27:11 INFO  BaseUtil:234 - Waiting for [5000] millisec before the next step.
+2018-06-01 18:27:16 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/relative
+2018-06-01 18:28:56 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 18:28:56 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 18:28:56 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 18:28:56 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 18:28:56 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 18:28:56 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 18:29:08 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (094a190a-88c4-4ffb-9bad-5cbf1ee7791e)
+2018-06-01 18:29:08 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 18:29:08 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 18:29:08 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_24_45PM.png
+2018-06-01 18:29:08 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_26_01PM.png
+2018-06-01 18:29:08 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_27_25PM.png
+2018-06-01 18:29:08 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 18:29:08 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-01 18:29:11 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 18:29:12 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 18:29:12 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 18:29:12 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 18:29:12 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 18:29:12 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 18:29:12 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 18:29:13 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 18:29:13 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 18:29:16 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 18:29:49 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 18:30:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 18:30:06 INFO  BaseUtil:255 - Waiting for [10000] millisec before the next step.
+2018-06-01 18:31:05 INFO  BaseUtil:255 - Waiting for [10000] millisec before the next step.
+2018-06-01 18:31:15 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/relative
+2018-06-01 18:38:04 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 18:38:04 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 18:38:04 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 18:38:04 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 18:38:04 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 18:38:04 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 18:38:19 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (4f49ad47-a3f1-44d0-81ec-673431728211)
+2018-06-01 18:38:19 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 18:38:19 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 18:38:19 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_29_16PM.png
+2018-06-01 18:38:19 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_29_49PM.png
+2018-06-01 18:38:19 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_31_18PM.png
+2018-06-01 18:38:19 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 18:38:19 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-01 18:38:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 18:38:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 18:38:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 18:38:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 18:38:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 18:38:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 18:38:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 18:38:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 18:38:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 18:38:26 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 18:38:58 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 18:39:16 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 18:39:16 INFO  BaseUtil:255 - Waiting for [10000] millisec before the next step.
+2018-06-01 18:39:59 INFO  BaseUtil:255 - Waiting for [10000] millisec before the next step.
+2018-06-01 18:40:09 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-01 18:40:46 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 18:40:46 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 18:40:46 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 18:40:46 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 18:40:46 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 18:40:46 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 18:40:58 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (564bc7ef-1e15-4fad-830c-d8544afeb9ea)
+2018-06-01 18:40:58 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 18:40:58 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 18:40:58 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_38_26PM.png
+2018-06-01 18:40:58 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_38_58PM.png
+2018-06-01 18:40:58 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_40_13PM.png
+2018-06-01 18:40:58 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 18:40:58 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-01 18:41:01 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 18:41:01 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 18:41:01 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 18:41:01 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 18:41:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 18:41:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 18:41:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 18:41:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 18:41:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 18:41:05 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 18:41:37 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 18:41:54 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 18:41:54 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 18:41:54 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 18:41:54 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 18:41:54 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 18:41:54 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 18:42:06 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (00fd1a1b-3313-4834-a4bb-afffea4b42c0)
+2018-06-01 18:42:07 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 18:42:07 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 18:42:07 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_41_05PM.png
+2018-06-01 18:42:07 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_41_37PM.png
+2018-06-01 18:42:07 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_41_40PM.png
+2018-06-01 18:42:07 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 18:42:07 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-01 18:42:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 18:42:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 18:42:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 18:42:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 18:42:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 18:42:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 18:42:11 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 18:42:11 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 18:42:11 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 18:42:14 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 18:42:47 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 18:43:09 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 18:43:09 INFO  BaseUtil:255 - Waiting for [10000] millisec before the next step.
+2018-06-01 18:44:16 INFO  BaseUtil:255 - Waiting for [10000] millisec before the next step.
+2018-06-01 18:44:26 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-01 19:32:36 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 19:32:36 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 19:32:36 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 19:32:36 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 19:32:36 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 19:32:36 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 19:33:18 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (ec1b5646-3c85-46e0-90e7-2f1c97f0069d)
+2018-06-01 19:33:19 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 19:33:19 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 19:33:19 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_42_14PM.png
+2018-06-01 19:33:19 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_42_47PM.png
+2018-06-01 19:33:19 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__06_44_38PM.png
+2018-06-01 19:33:19 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 19:33:19 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-01 19:33:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 19:33:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 19:33:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 19:33:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 19:33:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 19:33:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 19:33:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 19:33:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 19:33:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 19:33:24 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 19:33:56 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 19:34:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 19:34:10 INFO  BaseUtil:255 - Waiting for [10000] millisec before the next step.
+2018-06-01 19:35:19 INFO  BaseUtil:255 - Waiting for [10000] millisec before the next step.
+2018-06-01 19:35:29 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-01 19:36:04 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 19:36:04 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 19:36:04 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 19:36:04 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 19:36:04 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 19:36:04 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 19:36:30 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (3b49a535-4e89-4e86-8d97-79fec2e1db55)
+2018-06-01 19:36:30 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 19:36:30 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 19:36:30 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__07_33_24PM.png
+2018-06-01 19:36:30 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__07_33_56PM.png
+2018-06-01 19:36:30 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__07_35_31PM.png
+2018-06-01 19:36:30 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 19:36:30 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-01 19:36:33 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 19:36:33 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 19:36:33 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 19:36:33 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 19:36:33 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 19:36:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 19:36:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 19:36:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 19:36:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 19:36:35 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 19:37:07 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 19:37:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 19:37:21 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 19:38:34 INFO  BaseUtil:255 - Waiting for [10000] millisec before the next step.
+2018-06-01 19:38:44 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-01 19:42:22 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 19:42:22 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 19:42:22 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 19:42:22 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 19:42:22 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 19:42:22 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 19:42:48 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (f6ad60ed-a075-4223-9812-b8816fb14604)
+2018-06-01 19:42:48 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 19:42:48 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 19:42:48 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__07_36_35PM.png
+2018-06-01 19:42:48 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__07_37_07PM.png
+2018-06-01 19:42:48 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__07_38_46PM.png
+2018-06-01 19:42:48 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 19:42:48 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-01 19:42:51 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 19:42:51 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 19:42:51 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 19:42:51 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 19:42:51 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 19:42:51 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 19:42:51 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 19:42:52 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 19:42:52 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 19:42:53 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 19:43:25 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 19:43:39 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 19:43:39 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 19:44:53 INFO  BaseUtil:255 - Waiting for [10000] millisec before the next step.
+2018-06-01 19:45:03 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-01 19:45:31 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 19:45:31 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 19:45:31 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 19:45:31 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 19:45:31 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 19:45:31 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 19:45:56 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (6610fc64-3697-44f6-a757-af1dd1e4e3c8)
+2018-06-01 19:45:57 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 19:45:57 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 19:45:57 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__07_42_53PM.png
+2018-06-01 19:45:57 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__07_43_25PM.png
+2018-06-01 19:45:57 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__07_45_06PM.png
+2018-06-01 19:45:57 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 19:45:57 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-01 19:46:00 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 19:46:00 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 19:46:00 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 19:46:00 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 19:46:00 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 19:46:00 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 19:46:00 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 19:46:00 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 19:46:00 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 19:46:02 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 19:46:34 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 19:46:48 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 19:46:48 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 19:48:04 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 19:48:19 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-01 19:54:42 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 19:54:42 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 19:54:42 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 19:54:42 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 19:54:42 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 19:54:42 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 19:55:08 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (c9b674bb-aec2-431f-94ee-e7ca639dd77b)
+2018-06-01 19:55:08 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 19:55:08 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 19:55:08 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__07_46_02PM.png
+2018-06-01 19:55:08 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__07_46_34PM.png
+2018-06-01 19:55:08 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__07_48_21PM.png
+2018-06-01 19:55:08 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 19:55:08 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-01 19:55:11 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 19:55:11 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 19:55:11 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 19:55:11 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 19:55:11 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 19:55:11 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 19:55:11 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 19:55:12 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 19:55:12 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 19:55:13 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 19:55:45 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 19:55:59 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 19:55:59 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 19:57:19 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 19:57:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-01 19:59:45 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 19:59:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 19:59:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 19:59:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 19:59:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 19:59:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:00:15 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 20:00:15 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 20:00:15 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:00:15 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 20:00:15 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 20:00:15 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:00:43 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (1ea6e29d-d099-42a9-be92-384dce9d50ac)
+2018-06-01 20:00:43 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 20:00:43 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 20:00:43 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__07_55_13PM.png
+2018-06-01 20:00:43 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__07_55_45PM.png
+2018-06-01 20:00:43 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__07_57_36PM.png
+2018-06-01 20:00:43 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 20:00:43 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-01 20:00:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:00:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:00:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 20:00:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 20:00:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 20:00:47 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 20:00:47 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 20:00:47 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 20:00:47 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 20:00:49 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 20:01:20 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 20:01:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 20:01:34 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 20:02:50 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 20:03:05 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-01 20:05:43 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 20:05:43 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 20:05:43 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:05:43 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 20:05:43 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 20:05:43 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:06:09 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (e88dd0d0-a574-40dc-b679-739c35da615b)
+2018-06-01 20:06:09 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 20:06:09 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 20:06:09 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_00_49PM.png
+2018-06-01 20:06:09 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_01_20PM.png
+2018-06-01 20:06:09 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_03_06PM.png
+2018-06-01 20:06:09 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 20:06:09 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-01 20:06:12 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:06:12 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:06:13 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 20:06:13 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 20:06:13 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 20:06:13 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 20:06:13 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 20:06:13 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 20:06:13 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 20:06:15 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 20:06:46 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 20:07:00 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 20:07:00 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 20:08:16 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 20:08:31 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-01 20:10:25 INFO  TestBase:39 - Initializing Driver and Initiate Test Suite..
+2018-06-01 20:10:25 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 20:10:25 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:10:25 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 20:10:25 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 20:10:25 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:10:50 INFO  TestBase:53 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (5774808e-818c-40d8-b1af-b10d739e0ef8)
+2018-06-01 20:10:50 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 20:10:50 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 20:10:50 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_06_15PM.png
+2018-06-01 20:10:50 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_06_46PM.png
+2018-06-01 20:10:50 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_08_32PM.png
+2018-06-01 20:10:50 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 20:10:50 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-01 20:10:53 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:10:53 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:10:53 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 20:10:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 20:10:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 20:10:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 20:10:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 20:10:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 20:10:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 20:10:55 INFO  LoginPageTest:56 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 20:11:27 INFO  LoginPageTest:76 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 20:11:41 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 20:11:41 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 20:12:59 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 20:13:15 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-01 20:18:37 INFO  TestBase:42 - Initializing Driver and Initiate Test Suite..
+2018-06-01 20:18:37 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 20:18:37 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:18:37 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 20:18:37 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 20:18:37 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:19:03 INFO  TestBase:56 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (4b57dc5c-9de0-407e-86ec-3623fab1a769)
+2018-06-01 20:19:03 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 20:19:03 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 20:19:03 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_10_55PM.png
+2018-06-01 20:19:03 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_11_27PM.png
+2018-06-01 20:19:03 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_13_16PM.png
+2018-06-01 20:19:03 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 20:19:03 INFO  LoginPageTest:36 - TC01_LoginPage Test Suite Started
+2018-06-01 20:19:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:19:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:19:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 20:19:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 20:19:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 20:19:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 20:19:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 20:19:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 20:19:07 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 20:19:08 INFO  LoginPageTest:57 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 20:19:40 INFO  LoginPageTest:77 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 20:19:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 20:19:54 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 20:21:05 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 20:21:20 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-01 20:22:13 INFO  TestBase:42 - Initializing Driver and Initiate Test Suite..
+2018-06-01 20:22:13 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 20:22:13 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:22:13 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 20:22:13 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 20:22:13 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:22:38 INFO  TestBase:56 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (5d9589e9-7153-4dd5-a380-132b61a73239)
+2018-06-01 20:22:38 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 20:22:38 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 20:22:38 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_19_08PM.png
+2018-06-01 20:22:38 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_19_40PM.png
+2018-06-01 20:22:38 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_21_21PM.png
+2018-06-01 20:22:38 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 20:22:38 INFO  LoginPageTest:36 - TC01_LoginPage Test Suite Started
+2018-06-01 20:22:41 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:22:41 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:22:41 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 20:22:41 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 20:22:41 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 20:22:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 20:22:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 20:22:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 20:22:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 20:22:43 INFO  LoginPageTest:57 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 20:23:15 INFO  LoginPageTest:77 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 20:26:19 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-01 20:26:19 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 20:26:19 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:26:19 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 20:26:19 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 20:26:19 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:26:44 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (8f26e1f3-8c29-415c-837a-610dcc3a8f83)
+2018-06-01 20:26:44 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 20:26:44 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 20:26:44 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_22_43PM.png
+2018-06-01 20:26:44 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_23_15PM.png
+2018-06-01 20:26:44 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_23_17PM.png
+2018-06-01 20:26:44 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 20:26:44 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-01 20:26:47 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:26:47 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:26:47 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 20:26:47 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 20:26:47 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 20:26:47 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 20:26:48 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 20:26:48 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 20:26:48 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 20:26:49 INFO  LoginPageTest:56 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 20:27:21 INFO  LoginPageTest:76 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 20:27:35 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 20:27:35 INFO  BaseUtil:255 - Waiting for [10000] millisec before the next step.
+2018-06-01 20:28:48 INFO  BaseUtil:255 - Waiting for [10000] millisec before the next step.
+2018-06-01 20:28:58 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-01 20:32:11 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-01 20:32:11 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 20:32:11 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:32:11 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 20:32:11 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 20:32:11 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:32:20 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-01 20:32:20 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 20:32:20 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:32:20 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 20:32:20 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 20:32:20 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:32:48 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (571b3a14-6c45-4f10-851b-075ee69bdc52)
+2018-06-01 20:32:48 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 20:32:48 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 20:32:48 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_26_49PM.png
+2018-06-01 20:32:48 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_27_21PM.png
+2018-06-01 20:32:48 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_28_59PM.png
+2018-06-01 20:32:48 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 20:32:48 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-01 20:32:51 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:32:51 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:32:51 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 20:32:52 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 20:32:52 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 20:32:52 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 20:32:52 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 20:32:52 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 20:32:52 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 20:32:53 INFO  LoginPageTest:56 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 20:33:25 INFO  LoginPageTest:76 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 20:33:39 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 20:33:39 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 20:34:54 INFO  BaseUtil:255 - Waiting for [15000] millisec before the next step.
+2018-06-01 20:35:09 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-01 20:35:54 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-01 20:35:54 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-01 20:35:54 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:35:54 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-01 20:35:54 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-01 20:35:54 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-01 20:36:19 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (804addb1-a266-4423-9e4f-f2f1a953e897)
+2018-06-01 20:36:19 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-01 20:36:19 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-01 20:36:20 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_32_53PM.png
+2018-06-01 20:36:20 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_33_25PM.png
+2018-06-01 20:36:20 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot\01-Jun-2018__08_35_12PM.png
+2018-06-01 20:36:20 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-01_screenshot
+2018-06-01 20:36:20 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-01 20:36:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:36:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-01 20:36:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-01 20:36:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-01 20:36:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-01 20:36:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 20:36:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-01 20:36:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-01 20:36:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-01 20:36:25 INFO  LoginPageTest:56 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-01 20:36:57 INFO  LoginPageTest:76 - TC03_loginTestSuccess Test Suite Started
+2018-06-01 20:37:11 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-01 20:37:11 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-01 20:38:28 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-01 20:38:48 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-01 20:38:48 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-01 20:38:52 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-04 14:56:04 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-04 14:56:04 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-04 14:56:04 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-04 14:56:04 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-04 14:56:04 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-04 14:56:04 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-04 14:56:33 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (1008faa3-72e2-4f71-add4-385971436846)
+2018-06-04 14:56:33 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-04 14:56:33 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-04 14:56:33 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-04 14:56:33 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-04 14:56:33 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-04 14:56:33 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-04 14:56:33 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-04 14:56:58 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (616adf1f-dfd7-49a0-a706-14d69e0578f6)
+2018-06-04 14:56:58 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/dashboardPage/common.properties
+2018-06-04 14:56:58 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/dashboardPage/android.properties
+2018-06-04 14:56:58 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-04 14:57:01 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-04 14:57:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-04 14:57:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-04 14:57:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-04 14:57:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-04 14:57:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-04 14:57:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-04 14:57:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-04 14:57:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-04 14:57:04 INFO  LoginPageTest:56 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-04 14:57:06 INFO  LoginPageTest:76 - TC03_loginTestSuccess Test Suite Started
+2018-06-04 14:57:52 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-04 14:57:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-04 14:57:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-04 14:57:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-04 14:57:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-04 14:57:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-04 14:58:17 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (78698274-ac50-4e41-b5fd-ac8df4e4f3aa)
+2018-06-04 14:58:17 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-04 14:58:17 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-04 14:58:17 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-04 14:58:17 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-04 14:58:17 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-04 14:58:17 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-04 14:58:17 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-04 14:58:42 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (c0abffd9-44ae-4b9b-9bbb-d9eb9824bb05)
+2018-06-04 14:58:42 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/dashboardPage/common.properties
+2018-06-04 14:58:42 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/dashboardPage/android.properties
+2018-06-04 14:58:42 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-04_screenshot\04-Jun-2018__02_57_04PM.png
+2018-06-04 14:58:42 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-04_screenshot\04-Jun-2018__02_57_06PM.png
+2018-06-04 14:58:42 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-04_screenshot\04-Jun-2018__02_57_07PM.png
+2018-06-04 14:58:42 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-04_screenshot\04-Jun-2018__02_57_09PM.png
+2018-06-04 14:58:42 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-04_screenshot
+2018-06-04 14:58:42 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-04 14:58:45 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-04 14:58:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-04 14:58:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-04 14:58:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-04 14:58:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-04 14:58:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-04 14:58:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-04 14:58:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-04 14:58:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-04 14:58:48 INFO  LoginPageTest:56 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-04 14:58:49 INFO  LoginPageTest:76 - TC03_loginTestSuccess Test Suite Started
+2018-06-05 14:28:39 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-05 14:28:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-05 14:28:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-05 14:28:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-05 14:28:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-05 14:28:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-05 14:29:07 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (c3a68949-e853-4854-9c69-9b1b15f419f1)
+2018-06-05 14:29:07 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-05 14:29:07 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-05 14:29:07 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-05 14:29:07 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-05 14:29:07 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-05 14:29:07 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-05 14:29:07 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-05 14:29:33 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (6b2e2dc7-e64a-401e-9b71-8c683234279b)
+2018-06-05 14:29:33 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/dashboardPage/common.properties
+2018-06-05 14:29:33 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/dashboardPage/android.properties
+2018-06-05 14:29:33 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-05 14:29:36 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-05 14:29:36 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-05 14:29:36 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-05 14:29:36 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-05 14:29:36 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-05 14:29:36 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-05 14:29:37 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-05 14:29:37 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-05 14:29:37 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-05 14:29:38 INFO  LoginPageTest:56 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-05 14:29:39 INFO  LoginPageTest:76 - TC03_loginTestSuccess Test Suite Started
+2018-06-05 14:31:37 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-05 14:31:37 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-05 14:31:37 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-05 14:31:37 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-05 14:31:37 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-05 14:31:37 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-05 14:32:02 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (26cda2bf-2895-4e15-bbc8-2381dcafcd6c)
+2018-06-05 14:32:02 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-05 14:32:02 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-05 14:32:03 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-05_screenshot\05-Jun-2018__02_29_38PM.png
+2018-06-05 14:32:03 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-05_screenshot\05-Jun-2018__02_29_39PM.png
+2018-06-05 14:32:03 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-05_screenshot\05-Jun-2018__02_29_41PM.png
+2018-06-05 14:32:03 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-05_screenshot\05-Jun-2018__02_29_42PM.png
+2018-06-05 14:32:03 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-05_screenshot
+2018-06-05 14:32:03 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-05 14:32:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-05 14:32:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-05 14:32:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-05 14:32:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-05 14:32:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-05 14:32:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-05 14:32:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-05 14:32:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-05 14:32:06 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-05 14:32:08 INFO  LoginPageTest:56 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-05 14:32:40 INFO  LoginPageTest:76 - TC03_loginTestSuccess Test Suite Started
+2018-06-05 14:32:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-05 14:32:54 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-05 14:34:16 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-05 14:34:36 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 14:55:27 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 14:55:27 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 14:55:27 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 14:55:27 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 14:55:27 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 14:55:27 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 14:56:05 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (dae2b0bf-6e9f-4bc3-bfca-08dbec7f6f4f)
+2018-06-07 14:56:05 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-07 14:56:05 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-07 14:56:05 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-07 14:56:08 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 14:56:08 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 14:56:08 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-07 14:56:08 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-07 14:56:09 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-07 14:56:09 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 14:56:09 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-07 14:56:09 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-07 14:56:09 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-07 14:56:10 INFO  LoginPageTest:56 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-07 14:56:42 INFO  LoginPageTest:76 - TC03_loginTestSuccess Test Suite Started
+2018-06-07 14:56:56 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 14:56:56 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 14:58:14 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 14:58:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 14:58:35 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 14:58:38 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 15:45:06 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 15:45:06 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 15:45:06 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 15:45:06 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 15:45:06 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 15:45:06 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 15:46:59 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 15:46:59 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 15:46:59 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 15:46:59 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 15:46:59 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 15:46:59 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 15:47:30 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (08971115-ad61-49d2-96af-e81f6aad9bd8)
+2018-06-07 15:47:30 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-07 15:47:30 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-07 15:47:30 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__02_56_10PM.png
+2018-06-07 15:47:30 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__02_56_42PM.png
+2018-06-07 15:47:30 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__02_58_42PM.png
+2018-06-07 15:47:30 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot
+2018-06-07 15:47:30 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-07 15:47:33 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 15:47:33 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 15:47:33 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-07 15:47:33 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-07 15:47:33 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-07 15:47:33 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 15:47:33 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-07 15:47:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-07 15:47:34 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-07 15:47:35 INFO  LoginPageTest:56 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-07 15:48:07 INFO  LoginPageTest:76 - TC03_loginTestSuccess Test Suite Started
+2018-06-07 15:48:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 15:48:21 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 15:49:42 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 15:50:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 15:50:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 15:50:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 15:50:05 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 15:53:24 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 15:53:24 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 15:53:24 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 15:53:24 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 15:53:24 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 15:53:24 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 15:53:50 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (a45920c5-4bd9-46b0-a22e-1a06e16fb1ef)
+2018-06-07 15:53:50 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-07 15:53:50 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-07 15:53:50 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__03_47_35PM.png
+2018-06-07 15:53:50 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__03_48_07PM.png
+2018-06-07 15:53:50 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__03_50_10PM.png
+2018-06-07 15:53:50 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot
+2018-06-07 15:53:50 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-07 15:53:53 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 15:53:53 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 15:53:53 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-07 15:53:53 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-07 15:53:53 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-07 15:53:53 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 15:53:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-07 15:53:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-07 15:53:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-07 15:53:55 INFO  LoginPageTest:56 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-07 15:54:27 INFO  LoginPageTest:76 - TC03_loginTestSuccess Test Suite Started
+2018-06-07 15:54:41 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 15:54:41 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 15:56:01 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 15:56:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 15:56:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 15:56:25 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:02:57 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 16:02:57 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 16:02:57 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:02:57 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 16:02:57 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 16:02:57 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:03:23 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (49972969-fde3-42af-8693-5f2890c5ec36)
+2018-06-07 16:03:23 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-07 16:03:23 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-07 16:03:23 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__03_53_55PM.png
+2018-06-07 16:03:23 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__03_54_27PM.png
+2018-06-07 16:03:23 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__03_56_29PM.png
+2018-06-07 16:03:23 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot
+2018-06-07 16:03:23 INFO  LoginPageTest:35 - TC01_LoginPage Test Suite Started
+2018-06-07 16:03:26 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:03:26 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:03:26 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-07 16:03:26 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-07 16:03:26 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-07 16:03:26 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:03:26 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-07 16:03:26 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-07 16:03:26 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-07 16:03:28 INFO  LoginPageTest:56 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-07 16:03:59 INFO  LoginPageTest:76 - TC03_loginTestSuccess Test Suite Started
+2018-06-07 16:04:14 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:04:14 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:05:34 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:05:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:05:55 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:05:58 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:06:45 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 16:06:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 16:06:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:06:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 16:06:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 16:06:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:07:10 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (1e40fc66-6ece-4c1f-bbd6-a78bc7c7201a)
+2018-06-07 16:07:11 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-07 16:07:11 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-07 16:07:11 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_03_28PM.png
+2018-06-07 16:07:11 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_03_59PM.png
+2018-06-07 16:07:11 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_06_03PM.png
+2018-06-07 16:07:11 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot
+2018-06-07 16:07:11 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-07 16:07:14 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:07:14 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:07:14 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-07 16:07:14 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-07 16:07:14 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-07 16:07:14 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:07:14 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-07 16:07:14 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-07 16:07:14 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-07 16:07:16 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-07 16:07:48 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-07 16:08:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:08:02 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:09:21 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:09:41 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:09:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:09:45 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:12:24 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 16:12:24 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 16:12:24 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:12:24 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 16:12:24 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 16:12:24 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:12:50 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (080f8d07-eda3-4a91-a7d5-e874b711e6f2)
+2018-06-07 16:12:51 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-07 16:12:51 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-07 16:12:51 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_07_16PM.png
+2018-06-07 16:12:51 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_07_48PM.png
+2018-06-07 16:12:51 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_09_54PM.png
+2018-06-07 16:12:51 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot
+2018-06-07 16:12:51 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-07 16:12:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:12:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:12:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-07 16:12:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-07 16:12:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-07 16:12:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:12:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-07 16:12:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-07 16:12:54 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-07 16:12:56 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-07 16:13:28 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-07 16:13:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:13:42 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:15:04 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:15:24 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:15:25 INFO  LoginPageTest:80 - =====counter value 1=====flag value 1 ========== true
+2018-06-07 16:15:25 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:15:29 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:18:39 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 16:18:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 16:18:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:18:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 16:18:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 16:18:39 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:19:06 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (bf7422da-8953-406a-8852-de64a5cb6a32)
+2018-06-07 16:19:07 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-07 16:19:07 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-07 16:19:07 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_12_56PM.png
+2018-06-07 16:19:07 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_13_28PM.png
+2018-06-07 16:19:07 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_15_34PM.png
+2018-06-07 16:19:07 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot
+2018-06-07 16:19:07 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-07 16:19:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:19:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:19:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-07 16:19:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-07 16:19:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-07 16:19:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:19:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-07 16:19:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-07 16:19:10 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-07 16:19:12 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-07 16:19:45 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-07 16:19:59 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:19:59 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:21:18 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:21:38 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:23:45 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 16:23:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 16:23:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:23:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 16:23:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 16:23:45 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:24:11 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (c18fd7a3-5303-433d-a73a-bb80fffb014f)
+2018-06-07 16:24:11 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-07 16:24:11 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-07 16:24:11 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_19_12PM.png
+2018-06-07 16:24:11 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_19_45PM.png
+2018-06-07 16:24:11 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_21_40PM.png
+2018-06-07 16:24:11 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot
+2018-06-07 16:24:11 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-07 16:24:14 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:24:14 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:24:15 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-07 16:24:15 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-07 16:24:15 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-07 16:24:15 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:24:15 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-07 16:24:15 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-07 16:24:15 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-07 16:24:17 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-07 16:24:48 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-07 16:25:02 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:25:02 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:26:22 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:26:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:26:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:26:42 INFO  LoginPageTest:80 - =====counter value 1=====flag value 1 ========== true
+2018-06-07 16:26:42 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:26:46 INFO  LoginPageTest:84 - =====overRulePopupButton clicked=======
+2018-06-07 16:26:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:28:56 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 16:28:56 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 16:28:56 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:28:56 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 16:28:56 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 16:28:56 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:29:21 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (3a09e50a-deca-4eed-b210-2ef890edc702)
+2018-06-07 16:29:21 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-07 16:29:21 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-07 16:29:21 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_24_17PM.png
+2018-06-07 16:29:21 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_24_48PM.png
+2018-06-07 16:29:21 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_26_51PM.png
+2018-06-07 16:29:21 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot
+2018-06-07 16:29:21 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-07 16:29:24 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:29:24 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:29:24 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-07 16:29:25 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-07 16:29:25 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-07 16:29:25 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:29:25 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-07 16:29:25 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-07 16:29:25 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-07 16:29:26 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-07 16:29:58 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-07 16:30:12 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:30:12 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:31:31 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:31:51 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:31:51 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:31:51 INFO  LoginPageTest:80 - =====counter value 1=====flag value 1 ========== true
+2018-06-07 16:31:51 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:31:55 INFO  LoginPageTest:84 - =====overRulePopupButton clicked=======
+2018-06-07 16:31:55 INFO  LoginPageTest:87 - =====counter value 2=====flag value 2 ======== false
+2018-06-07 16:31:56 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textViewMY
+2018-06-07 16:33:59 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 16:33:59 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 16:33:59 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:33:59 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 16:33:59 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 16:33:59 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:34:26 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (a1d73364-72a0-4793-8512-b8b1c9ded51a)
+2018-06-07 16:34:26 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-07 16:34:26 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-07 16:34:26 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_29_26PM.png
+2018-06-07 16:34:26 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_29_58PM.png
+2018-06-07 16:34:26 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_32_00PM.png
+2018-06-07 16:34:26 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot
+2018-06-07 16:34:26 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-07 16:34:29 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:34:29 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:34:29 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-07 16:34:29 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-07 16:34:29 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-07 16:34:29 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:34:30 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-07 16:34:30 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-07 16:34:30 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-07 16:34:31 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-07 16:35:03 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-07 16:35:17 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:35:17 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:36:35 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:36:55 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:37:52 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 16:37:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 16:37:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:37:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 16:37:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 16:37:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:38:18 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (f1c2cac5-60a7-4cf4-b59a-967af257ea14)
+2018-06-07 16:38:18 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-07 16:38:18 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-07 16:38:18 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_34_31PM.png
+2018-06-07 16:38:18 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_35_03PM.png
+2018-06-07 16:38:18 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_36_57PM.png
+2018-06-07 16:38:18 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot
+2018-06-07 16:38:18 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-07 16:38:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:38:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:38:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-07 16:38:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-07 16:38:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-07 16:38:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:38:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-07 16:38:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-07 16:38:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-07 16:38:23 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-07 16:38:55 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-07 16:39:09 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:39:09 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:40:27 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:40:47 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:43:17 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 16:43:17 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 16:43:17 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:43:17 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 16:43:17 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 16:43:17 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:43:42 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (38c7090d-039f-470f-ac31-bca0ed9085a1)
+2018-06-07 16:43:43 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-07 16:43:43 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-07 16:43:43 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_38_23PM.png
+2018-06-07 16:43:43 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_38_55PM.png
+2018-06-07 16:43:43 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_40_48PM.png
+2018-06-07 16:43:43 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot
+2018-06-07 16:43:43 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-07 16:43:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:43:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:43:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-07 16:43:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-07 16:43:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-07 16:43:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:43:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-07 16:43:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-07 16:43:46 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-07 16:43:48 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-07 16:44:21 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-07 16:44:35 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:44:35 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:45:54 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 16:46:14 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:47:52 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 16:47:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 16:47:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:47:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 16:47:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 16:47:52 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 16:48:18 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (eddefe2f-896c-4fbd-bd67-4c9d9b79047a)
+2018-06-07 16:48:18 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-07 16:48:18 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-07 16:48:18 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_43_48PM.png
+2018-06-07 16:48:18 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_44_21PM.png
+2018-06-07 16:48:18 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_46_16PM.png
+2018-06-07 16:48:18 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot
+2018-06-07 16:48:18 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-07 16:48:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:48:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 16:48:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-07 16:48:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-07 16:48:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-07 16:48:21 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:48:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-07 16:48:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-07 16:48:22 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-07 16:48:23 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-07 16:48:55 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-07 16:49:09 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 16:49:09 INFO  BaseUtil:255 - Waiting for [25000] millisec before the next step.
+2018-06-07 16:50:30 INFO  BaseUtil:255 - Waiting for [25000] millisec before the next step.
+2018-06-07 16:50:55 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:50:55 INFO  LoginPageTest:80 - =====counter value 1=====flag value 1 ========== true
+2018-06-07 16:50:55 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 16:50:58 INFO  LoginPageTest:84 - =====overRulePopupButton clicked=======
+2018-06-07 16:50:58 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 18:04:09 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 18:04:09 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 18:04:09 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 18:04:09 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 18:04:09 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 18:04:09 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 18:05:20 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (c700a936-dac0-4fbc-80e3-96f795d692b8)
+2018-06-07 18:05:20 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-07 18:05:20 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-07 18:05:20 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_48_23PM.png
+2018-06-07 18:05:20 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_48_55PM.png
+2018-06-07 18:05:20 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__04_51_03PM.png
+2018-06-07 18:05:20 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot
+2018-06-07 18:05:20 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-07 18:05:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 18:05:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 18:05:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-07 18:05:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-07 18:05:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-07 18:05:23 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 18:05:24 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-07 18:05:24 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-07 18:05:24 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-07 18:05:25 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-07 18:05:57 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-07 18:06:11 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 18:06:11 INFO  BaseUtil:255 - Waiting for [25000] millisec before the next step.
+2018-06-07 18:07:32 INFO  BaseUtil:255 - Waiting for [25000] millisec before the next step.
+2018-06-07 18:07:57 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 18:07:57 INFO  LoginPageTest:80 - =====counter value 1=====flag value 1 ========== true
+2018-06-07 18:07:57 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 18:08:01 INFO  LoginPageTest:84 - =====overRulePopupButton clicked=======
+2018-06-07 18:08:01 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 18:10:31 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-07 18:10:31 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-07 18:10:31 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 18:10:31 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-07 18:10:31 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-07 18:10:31 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-07 18:10:56 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (fb7a027d-dcc0-44b8-a3c8-7c9d125be90d)
+2018-06-07 18:10:56 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-07 18:10:56 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-07 18:10:56 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__06_05_25PM.png
+2018-06-07 18:10:56 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__06_05_57PM.png
+2018-06-07 18:10:56 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot\07-Jun-2018__06_08_05PM.png
+2018-06-07 18:10:56 INFO  BaseUtil:315 - Deleted file/folder: E:\bitbucket\mobile_warrior_testautomation\src\main\resources\com\mw\2018-06-07_screenshot
+2018-06-07 18:10:56 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-07 18:10:59 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 18:10:59 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-07 18:10:59 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-07 18:10:59 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-07 18:11:00 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-07 18:11:00 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 18:11:00 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-07 18:11:00 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-07 18:11:00 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-07 18:11:01 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-07 18:11:33 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started
+2018-06-07 18:11:47 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-07 18:11:47 INFO  BaseUtil:255 - Waiting for [25000] millisec before the next step.
+2018-06-07 18:13:06 INFO  BaseUtil:255 - Waiting for [20000] millisec before the next step.
+2018-06-07 18:13:26 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 18:13:27 INFO  LoginPageTest:80 - =====counter value 1=====flag value ========== true
+2018-06-07 18:13:27 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-07 18:13:30 INFO  LoginPageTest:84 - =====overRulePopupButton clicked=======
+2018-06-07 18:13:30 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/title
+2018-06-08 15:42:31 INFO  TestBase:41 - Initializing Driver and Initiate Test Suite..
+2018-06-08 15:42:31 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/common.properties
+2018-06-08 15:42:31 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-08 15:42:31 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/common.properties
+2018-06-08 15:42:31 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/global/android.properties
+2018-06-08 15:42:31 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/config/android.properties
+2018-06-08 15:43:01 INFO  TestBase:55 - Initializing Driver with Driver Info: AndroidDriver:  on ANDROID (3f7f0e50-3c32-4731-8a10-9085c6dc9e26)
+2018-06-08 15:43:02 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/common.properties
+2018-06-08 15:43:02 INFO  BaseUtil:79 - src/main/resources/com/mw/properties/loginPage/android.properties
+2018-06-08 15:43:02 INFO  LoginPageTest:34 - TC01_LoginPage Test Suite Started
+2018-06-08 15:43:05 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-08 15:43:05 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/loginLayout
+2018-06-08 15:43:05 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/email
+2018-06-08 15:43:05 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/password
+2018-06-08 15:43:05 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/login
+2018-06-08 15:43:05 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/textView1
+2018-06-08 15:43:05 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/signup
+2018-06-08 15:43:05 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/button3
+2018-06-08 15:43:05 INFO  BaseUtil:161 - Object Identifier id	 Object Identifier Value com.iddl.main:id/setting
+2018-06-08 15:43:07 INFO  LoginPageTest:51 - TC02_loginWithInvalidEmail Test Suite Started
+2018-06-08 15:43:39 INFO  LoginPageTest:66 - TC03_loginTestSuccess Test Suite Started

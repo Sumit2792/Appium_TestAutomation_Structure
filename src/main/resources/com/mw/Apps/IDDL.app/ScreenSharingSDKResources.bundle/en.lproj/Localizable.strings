@@ -1,0 +1,77 @@
+/*
+ * Locale: en_GB, English (UK)
+ */
+
+/*  */
+"IDS_SESSION_CODE_CREATION_FAILED" = "Invalid Configuration ID. Could not create a session code. Please get in touch with your app developer.";
+
+/*  */
+"IDS_RECONNECTING" = "The connection has been lost. Trying to reconnect...";
+
+/*  */
+//"IDS_TEAMVIEWER_TITLE" = "TeamViewer";
+"IDS_TEAMVIEWER_TITLE" = "";
+
+/*  */
+"IDS_WAIT_FOR_PARTNER_IN_SESSION" = "Call the number to the left for assistance.";
+
+/*  */
+"IDS_LOGIN_DIALOG_TITLE" = "Connection";
+
+/*  */
+"IDS_MOBILE_SDK_BACKGROUND_MESSAGE_NOT_CONNECTED" = "Waiting for partner...";
+
+/*  */
+"IDS_CONNECTION_LOST_PLEASE_RECONNECT" = "Connection lost. Please reconnect";
+
+/*  */
+"IDS_CANCEL" = "Cancel";
+
+/*  */
+"IDS_ASK_FOR_QUICK_ACCESS_TEXT_SDK" = "Tap Allow for remote customer support.";
+
+/*  */
+"IDS_INSTANTSUPPORT_INVALID" = "This session code is invalid. Please request a new session code from your partner.";
+
+/*  */
+"IDS_NONCOMMERCIAL_TITLE" = "Sponsored session";
+
+/*  */
+"IDS_REMOTESUPPORT_SETUP_TIMEOUT" = "The server did not respond in the given time frame. Please try again later.";
+
+/*  */
+"IDS_LNG" = "en";
+
+/*  */
+"IDS_UNABLE_TO_CONNECT" = "Unable to connect";
+
+/*  */
+"IDS_INSTANTSUPPORT_CLOSED" = "This session code is closed. Please request a new session code from your partner.";
+
+/*  */
+"IDS_MOBILE_SDK_BACKGROUND_MESSAGE_CONNECTED" = "Still connected...";
+
+/*  */
+"IDS_ALLOW" = "Allow";
+
+/*  */
+//"IDS_NONCOMMERCIAL" = "This was a free session sponsored by www.teamviewer.com \n\nPlease note that free sessions are available for \nNON-COMMERCIAL USE ONLY. \nThank you for playing fair!";
+"IDS_NONCOMMERCIAL" = "";
+
+/*  */
+"IDS_OK" = "OK";
+
+/*  */
+"IDS_QS_ALLOW_REMOTE_SUPPORT" = "Allow remote support?";
+
+/*  */
+"IDS_STATUS_NOTCONNECTED" = "Not ready. Please check your connection";
+
+/*  */
+"IDS_INSTANTSUPPORT_EXPIRED" = "This session code is expired. Please request a new session code from your partner.";
+
+/*  */
+"IDS_PARTNER_CONNECTED_TO_DEVICE" = "%1% has connected to your device...";
+
+/*  */
+"IDS_CONNECTION_LOST_TITLE" = "Network Connection Lost";

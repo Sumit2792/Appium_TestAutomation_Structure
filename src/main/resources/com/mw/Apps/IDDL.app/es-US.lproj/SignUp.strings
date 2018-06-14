@@ -1,0 +1,30 @@
+
+/* Class = "UITextField"; placeholder = "New password (again)"; ObjectID = "6"; */
+"6.placeholder" = "Nueva contraseña (de nuevo)";
+
+/* Class = "UITextField"; placeholder = "Your email address"; ObjectID = "7"; */
+"7.placeholder" = "Su dirección de correo electrónico";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "8"; */
+"8.normalTitle" = "Continuar";
+
+/* Class = "UIButton"; normalTitle = "Recover password"; ObjectID = "10"; */
+"10.normalTitle" = "Recuperar contraseña";
+
+/* Class = "UILabel"; text = "Already have an account?"; ObjectID = "11"; */
+"11.text" = "¿Ya tienes una cuenta?";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "12"; */
+"12.normalTitle" = "Log In";
+
+/* Class = "UITextField"; placeholder = "New password"; ObjectID = "14"; */
+"14.placeholder" = "Nueva contraseña";
+
+/* Class = "UILabel"; text = "MobileWarrior Platform Release 2.93 20161220"; ObjectID = "21"; */
+"21.text" = "MobileWarrior Platform Release 2.93 20161220";
+
+/* Class = "UITextField"; placeholder = "Your email address (again)"; ObjectID = "22"; */
+"22.placeholder" = "Su dirección de correo electrónico (nuevo)";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "24"; */
+"24.normalTitle" = "Cancelar";

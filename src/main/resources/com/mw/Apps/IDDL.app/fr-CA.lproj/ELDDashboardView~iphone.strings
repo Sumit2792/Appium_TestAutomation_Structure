@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9qr-zN-B8e"; */
+"9qr-zN-B8e.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "IFTA"; ObjectID = "NV6-tN-LWe"; */
+"NV6-tN-LWe.normalTitle" = "IFTA";
+
+/* Class = "UIButton"; normalTitle = "ELD"; ObjectID = "QL4-Av-fJj"; */
+"QL4-Av-fJj.normalTitle" = "ELD";
+
+/* Class = "UIButton"; normalTitle = "No Alerts"; ObjectID = "vSH-LQ-n9y"; */
+"vSH-LQ-n9y.normalTitle" = " Aucune alerte ";
+
+/* Class = "UIButton"; normalTitle = "In Motion"; ObjectID = "y7r-8o-4Un"; */
+"y7r-8o-4Un.normalTitle" = "In Motion";

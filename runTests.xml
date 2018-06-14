@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MW_Test_Automation">
+
+	<!-- Login Page test scenarios -->
+	<test name="LoginPageTest">
+		<classes>
+			<class name="com.mw.tests.LoginPageTest" />
+		</classes>
+	</test>
+
+	<!-- Dashboard Page test scenarios -->
+	<test name="DashboardPageTest">
+		<classes>
+			<class name="com.mw.tests.DashboardPageTest" />
+		</classes>
+	</test>
+	
+	<!-- Gauge Page test scenarios -->
+	<test name="GaugePageTest">
+		<classes>
+			<class name="com.mw.tests.GaugePageTest" />
+		</classes>
+	</test>
+	
+</suite>

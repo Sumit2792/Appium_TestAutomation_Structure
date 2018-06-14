@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Reports are available with an active subscription"; ObjectID = "3"; */
+"3.text" = "Reports are available with an active subscription";
+
+/* Class = "UILabel"; text = "To activate your subscription,  please visit mobilewarrior.com or select the 'Subscribe'  button"; ObjectID = "4"; */
+"4.text" = "To activate your subscription,  please visit mobilewarrior.com or select the 'Subscribe'  button";
+
+/* Class = "UIButton"; normalTitle = "Subscribe"; ObjectID = "5"; */
+"5.normalTitle" = "Subscribe";
+
+/* Class = "UIButton"; normalTitle = "Not at this time"; ObjectID = "6"; */
+"6.normalTitle" = "Not at this time";

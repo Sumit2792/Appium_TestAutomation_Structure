@@ -1,0 +1,125 @@
+<report width="8.5in" height="11in">
+	<margins left="0.10625in" right="0.05625in" top="0.2525in" bottom="0.15625in" />
+	<source name="IDDLInspection" dateattr="Date" />
+    <source name="Telemetry" dateattr="Date" />
+    <source name="DriverLog" dateattr="Start" />
+    <source name="Load" dateattr="Actual PickUp" />
+	<head height="0.24in">
+        <text x="0in" y="0in" boxed="YES" width="8.2in" height="5pt" background="#000000" strokesize="0.1" />
+	</head>
+	<body>
+        <group x="0in" y="0in">
+            <text size="9pt" style="bold" x="0in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Record Date</text>
+            <date size="10pt" x="0in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" dateformat="dd-MMM-yy" />
+            
+            <text size="9pt" style="bold" x="1.38in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >USDOT#</text>
+            <attr source="IDDLDriverInformation" name="Carrier Registration ID" nodate="YES" size="10pt" x="1.38in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="2.76in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >DriverLicenseNumber</text>
+            <attr source="IDDLDriverInformation" name="Drivers License" nodate="YES" size="10pt" x="2.76in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="4.14in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >DriverLicenseState</text>
+            <attr source="IDDLDriverInformation" name="Driver License State" nodate="YES" size="10pt" x="4.14in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="5.52in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >ELD ID</text>
+            <attrlist source="Telemetry" name="ELD ID" size="10pt" x="5.52in" y="0.224in" boxed="YES" OnlyFirstValue="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="6.9in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Trailer ID</text>
+            <linkattrlist source="IDDLInspection" linkname="Vehicle" name="Name" limitingattr="Type" limitingvalue="Trailer" size="10pt" x="6.9in" y="0.224in" boxed="YES" width="1.2978in" OnlyFirstValue="YES" height="10pt" strokesize="0.1" />
+        </group>
+        
+        <group x="0in" y="0.420in">
+            <text size="9pt" style="bold" x="0in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Time Zone</text>
+            <attr source="IDDLDriverInformation" name="Time Zone" nodate="YES" size="10pt" x="0in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="1.38in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Driver Name</text>
+            <attr source="IDDLDriverInformation" name="Name" nodate="YES" size="10pt" x="1.38in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="2.76in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Co-Driver Name</text>
+            <attr source="IDDLDriverInformation" name="Co-Driver" nodate="YES" size="10pt" x="2.76in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="4.14in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >ELD Manufacturer</text>
+            <attrlist source="Telemetry" name="ELDManufacture" size="10pt" x="4.14in" y="0.224in" boxed="YES" OnlyFirstValue="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="5.52in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Shipping ID</text>
+            <attrlist source="IDDLInspection,Load" name="Documents" size="10pt" x="5.52in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="6.9in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Data Diagnostic Indicators</text>
+            <attrlist source="Telemetry" count="YES" trueFalse="YES" name="Type" limitingvalue="Diagnostic" size="10pt" x="6.9in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+        </group>
+        
+        <group x="0in" y="0.84in">
+            <text size="9pt" style="bold" x="0in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >24 Period Starting Time</text>
+            <text size="10pt" x="0in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1">Midnight</text>
+            
+            <text size="9pt" style="bold" x="1.38in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Driver ID</text>
+            <attr source="IDDLDriverInformation" name="DriverID" nodate="YES" size="10pt" x="1.38in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="2.76in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Co-Driver ID</text>
+            <text size="10pt" x="2.76in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="4.14in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Truck Tractor ID</text>
+            <attrlist source="Telemetry" name="Vehicle VIN" vehicleField="Name" size="10pt" x="4.14in" y="0.224in" boxed="YES" OnlyFirstValue="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="5.52in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Unidentified Driver Records</text>
+            <unidentifiedDriverRecords size="10pt" x="5.52in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="6.9in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >ELD Malfunction Indicators</text>
+            <attrlist source="Telemetry" name="Diagnostic" count="YES" trueFalse="YES"  size="10pt" x="6.9in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+        </group>
+        
+        <group x="0in" y="1.26in">
+            <text size="9pt" style="bold" x="0in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Carrier</text>
+            <attr source="IDDLDriverInformation" name="Carrier" nodate="YES" size="10pt" x="0in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="1.38in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Start End Odometer</text>
+            <text x="1.38in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            <startOdometer includeEndOdo="YES" size="10pt" x="1.39in" y="0.224in" width="1.2978in" />
+            
+            <text size="9pt" style="bold" x="2.76in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Miles Today</text>
+            <miles size="10pt" x="2.76in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="4.14in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Truck Tractor VIN</text>            
+            <attrlist source="Telemetry" name="Vehicle VIN" size="10pt" x="4.14in" y="0.224in" boxed="YES" OnlyFirstValue="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="5.52in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Exempt Driver Status</text>
+            <exemptDriverStatus size="10pt" x="5.52in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="6.9in" y="0in" boxed="YES" width="1.2978in" height="8pt" background="#ACA46C" strokesize="0.1" >Start End Engine Hours</text>
+            <engineHours size="10pt" x="6.9in" y="0.224in" boxed="YES" width="1.2978in" height="10pt" strokesize="0.1" />
+        </group>
+        
+        <group x="0in" y="1.68in">
+            <text size="9pt" style="bold" x="0in" y="0in" boxed="YES" width="2.6772in" height="8pt" background="#ACA46C" strokesize="0.1" >Current Location</text>
+            <currentLocation size="10pt" x="0in" y="0.224in" boxed="YES" width="2.6772in" height="10pt" strokesize="0.1" />
+            
+            <text size="9pt" style="bold" x="2.76in" y="0in" boxed="YES" width="2.6772in" height="8pt" background="#ACA46C" strokesize="0.1" >File Comment</text>
+            <text size="10pt" x="2.76in" y="0.224in" boxed="YES" width="2.6772in" height="10pt" strokesize="0.1"/>
+            
+            <text size="9pt" style="bold" x="5.52in" y="0in" boxed="YES" width="2.6772in" height="8pt" background="#ACA46C" strokesize="0.1" >Print/Display Date</text>
+            <date size="10pt" x="5.52in" y="0.224in" boxed="YES" width="2.6772in" height="10pt" strokesize="0.1" dateformat="dd-MMM-yy" currentDate ="YES" />
+        </group>
+        <text x="0in" y="4.63in" width="8.2in" height="2.49827in" boxed="YES" strokesize="1.5" />
+		<dailychart x="0in" y="2.2in" width="8.1in" height="2.3625in" inspections="NO" hoursTotal="YES" segmentsHourIndicators="YES" totalInDecimal="YES" certifiedIndicator="YES"/>
+        
+		<table source="Telemetry" x="0in" y="4.9987in" addDateRow="YES">
+			<field align="CENTER" name="Date" size="9pt" title="Time" titlesize="11pt" x="0.4in" boxed="YES" width="0.75in" height="5pt" strokesize="1.0" dateformat="HH:mm" headerBackground="#DDA6A5" />
+			<field align="CENTER" name="Location" size="9pt" title="Location" titlesize="11pt" x="1.924in" boxed="YES" width="2.12in" height="5pt" strokesize="1.0" headerBackground="#DDA6A5" distanceAndDirection="YES" />
+            <field align="CENTER" name="Odometer" size="9pt" title="Odometer" titlesize="11pt" x="3.633in" boxed="YES" width="1.11in" height="5pt" strokesize="1.0" headerBackground="#DDA6A5"/>
+			<field align="CENTER" name="Total Engine Hours" size="9pt" title="Eng Hours" titlesize="11pt" x="4.848in" boxed="YES" width="1.17in" height="5pt" strokesize="1.0" headerBackground="#DDA6A5" />
+			<field align="CENTER" name="Type" size="9pt" title="Event Type/Status" titlesize="11pt" x="6.348in" boxed="YES" width="1.64in" height="5pt" strokesize="1.0"  headerBackground="#DDA6A5" abbreviation = "YES" />
+            <field align="CENTER" name="Event Record Origin" size="9pt" title="Origin" titlesize="11pt" x="7.73in" boxed="YES" width="0.94in" height="5pt" strokesize="1.0"  headerBackground="#DDA6A5" />
+            <adtlsource source="DriverLog">
+                <fmapping align="CENTER" field="Date" name="Start" dateformat="HH:mm" />
+                <fmapping align="CENTER" field="Location" name="Location" distanceAndDirection="YES" />
+                <fmapping align="CENTER" field="Odometer" name="Odometer" />
+                <fmapping align="CENTER" field="Total Engine Hours" text="%@0.0" name="Total Engine Hours" />
+                <fmapping align="CENTER" field="Type" name="Type Driver Log" abbreviation = "YES" />
+                <fmapping align="CENTER" field="Event Record Origin" name="Event Record Origin" />
+            </adtlsource>
+		</table>
+	</body>
+	
+	<foot height="0in">
+	</foot>
+</report>

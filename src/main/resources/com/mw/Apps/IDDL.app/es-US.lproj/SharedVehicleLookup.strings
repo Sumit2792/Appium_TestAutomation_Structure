@@ -1,0 +1,36 @@
+
+/* Class = "UITextField"; placeholder = "Equipment Number"; ObjectID = "27"; */
+"27.placeholder" = "Número de equipos";
+
+/* Class = "UITextField"; placeholder = "License Plate Number"; ObjectID = "28"; */
+"28.placeholder" = "Número de matrícula";
+
+/* Class = "UITextField"; placeholder = "Vin Number"; ObjectID = "29"; */
+"29.placeholder" = "Número VIN";
+
+/* Class = "UIButton"; normalTitle = "CyntrX  Lookup"; ObjectID = "30"; */
+"30.normalTitle" = "Búsqueda CyntrX";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "31"; */
+"31.normalTitle" = "Cancelar";
+
+/* Class = "UIButton"; normalTitle = "Find"; ObjectID = "51"; */
+"51.normalTitle" = "Buscar";
+
+/* Class = "UIButton"; normalTitle = "Clear values"; ObjectID = "52"; */
+"52.normalTitle" = "Borrar valores";
+
+/* Class = "UILabel"; text = "Equipment Number:"; ObjectID = "4jq-0B-BtC"; */
+"4jq-0B-BtC.text" = "Número de equipos:";
+
+/* Class = "UILabel"; text = "Vin Number:"; ObjectID = "9B2-MV-tVH"; */
+"9B2-MV-tVH.text" = "Número VIN:";
+
+/* Class = "UILabel"; text = "License Plate Number:"; ObjectID = "YbS-2z-XQ2"; */
+"YbS-2z-XQ2.text" = "Número de matrícula:";
+
+/* Class = "UITextField"; placeholder = "ELD ID"; ObjectID = "Z0j-Kw-vtV"; */
+"Z0j-Kw-vtV.placeholder" = "ELD ID";
+
+/* Class = "UILabel"; text = "ELD ID:"; ObjectID = "bAv-Fr-ryu"; */
+"bAv-Fr-ryu.text" = "ELD ID:";

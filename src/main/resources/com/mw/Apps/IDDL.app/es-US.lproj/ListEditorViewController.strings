@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "No Entries Text"; ObjectID = "68"; */
+"68.text" = "No hay entradas de texto";
+
+/* Class = "UILabel"; text = "This needs to be a detailed explanation of why there is not a single content entry in this list. "; ObjectID = "69"; */
+"69.text" = "Esto debe ser una explicación detallada de por qué no hay una sola entrada de contenido en esta lista.";
+
+/* Class = "UIBarButtonItem"; title = ">"; ObjectID = "76"; */
+"76.title" = ">";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "77"; */
+"77.title" = "<";
+
+/* Class = "UIBarButtonItem"; title = "All Dates"; ObjectID = "80"; */
+"80.title" = "Todas las fechas";
+
+/* Class = "UIBarButtonItem"; title = "Sort"; ObjectID = "81"; */
+"81.title" = "Ordenar";
+
+/* Class = "UIBarButtonItem"; title = "Map"; ObjectID = "82"; */
+"82.title" = "Mapa";
+
+/* Class = "UIBarButtonItem"; title = "Sync"; ObjectID = "Fdf-DE-ufT"; */
+"Fdf-DE-ufT.title" = "Sync";

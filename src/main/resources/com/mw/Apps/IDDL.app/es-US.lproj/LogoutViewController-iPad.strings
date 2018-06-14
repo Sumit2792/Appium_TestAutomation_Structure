@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Logout and Remove Data"; ObjectID = "3"; */
+"3.normalTitle" = "Logout y extraer datos";
+
+/* Class = "UIButton"; normalTitle = "View Unsynchronized Records"; ObjectID = "JJa-qg-3Dp"; */
+"JJa-qg-3Dp.normalTitle" = "Ver registros no sincronizados";
+
+/* Class = "UILabel"; text = "This device is not connected to the Internet."; ObjectID = "ZhX-YQ-sOB"; */
+"ZhX-YQ-sOB.text" = "Este dispositivo no está conectado a Internet.";
+
+/* Class = "UILabel"; text = "You have records that have not yet been synchronized to the cloud server."; ObjectID = "sJr-uy-nss"; */
+"sJr-uy-nss.text" = "Usted tiene los registros que aún no se han sincronizado con el servidor de la nube.";
